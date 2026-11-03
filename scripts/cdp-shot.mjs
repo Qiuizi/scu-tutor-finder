@@ -15,7 +15,8 @@ const chrome = spawn(
   [
     '--headless=new',
     '--disable-gpu',
-    '--no-proxy-server',
+    // 访问外网（如线上 Pages）时需要走系统代理；本地预览则禁用
+    ...(process.env.CDP_USE_PROXY ? [] : ['--no-proxy-server']),
     '--hide-scrollbars',
     `--remote-debugging-port=${PORT}`,
     '--user-data-dir=' + path.resolve('.tmp', 'cdp-profile'),
