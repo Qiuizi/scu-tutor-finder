@@ -1,3 +1,8 @@
+export type AchieveItem = {
+  title: string;
+  url: string;
+};
+
 export type Teacher = {
   id: number | null;
   name: string;
@@ -19,6 +24,8 @@ export type Teacher = {
   tutorTitle: string;
   source: 'homepage' | 'pdf-only';
   researchSource: 'pdf' | 'homepage' | '';
+  papers?: AchieveItem[];
+  projects?: AchieveItem[];
 };
 
 export type Notice = {
@@ -36,6 +43,7 @@ export type Meta = {
   withResearch: number;
   tutors: number;
   withEmail: number;
+  withPapers?: number;
   totalNotices: number;
   sources: string[];
 };

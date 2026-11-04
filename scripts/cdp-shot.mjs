@@ -20,7 +20,7 @@ const chrome = spawn(
     '--hide-scrollbars',
     `--remote-debugging-port=${PORT}`,
     '--user-data-dir=' + path.resolve('.tmp', 'cdp-profile'),
-    '--window-size=1440,1000',
+    '--window-size=' + (process.env.CDP_SIZE || '1440,1000'),
     'about:blank',
   ],
   { stdio: 'ignore' }

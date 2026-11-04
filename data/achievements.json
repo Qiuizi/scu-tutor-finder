@@ -1,0 +1,1771 @@
+{
+  "chaizhi": {
+    "papers": [],
+    "projects": []
+  },
+  "chenhu": {
+    "papers": [
+      {
+        "title": "Denoising with convolutional neural network, 2017 IEEE International Symposium on Biomedical Imaging",
+        "url": "https://faculty.scu.edu.cn/chenhu/zh_CN/lwcg/8931/content/3169.htm#lwcg"
+      },
+      {
+        "title": "Low-dose CT restoration with deep convolutional neural network, 2017 International Conference on Fully Three-Dimensional Image Reconstruction in Radiology and Nuclear Medicine",
+        "url": "https://faculty.scu.edu.cn/chenhu/zh_CN/lwcg/8931/content/3168.htm#lwcg"
+      },
+      {
+        "title": "Deep learning for low-dose CT 2017 SPIE Optical Engineering + Applications",
+        "url": "https://faculty.scu.edu.cn/chenhu/zh_CN/lwcg/8931/content/3167.htm#lwcg"
+      },
+      {
+        "title": "Bidirectional Scalable Motion for Scalable Video Coding, IEEE Transactions on Image Processing, 2010.11",
+        "url": "https://faculty.scu.edu.cn/chenhu/zh_CN/lwcg/8931/content/3166.htm#lwcg"
+      },
+      {
+        "title": "Few-view image reconstruction combining total variation and a high-order norm, International Journal of Imaging System and Technology, 2013.9",
+        "url": "https://faculty.scu.edu.cn/chenhu/zh_CN/lwcg/8931/content/3165.htm#lwcg"
+      },
+      {
+        "title": "Head Pose Estimation with Improved Random Regression Forests, Mathematical Problems in Engineering, 2015",
+        "url": "https://faculty.scu.edu.cn/chenhu/zh_CN/lwcg/8931/content/3164.htm#lwcg"
+      },
+      {
+        "title": "Low-dose CT via convolutional neural network, Biomedical Optics Express, 2017",
+        "url": "https://faculty.scu.edu.cn/chenhu/zh_CN/lwcg/8931/content/3163.htm#lwcg"
+      },
+      {
+        "title": "Stacked competitive networks for noise reduction in low-dose CT, Plos one, 2017",
+        "url": "https://faculty.scu.edu.cn/chenhu/zh_CN/lwcg/8931/content/3162.htm#lwcg"
+      },
+      {
+        "title": "Low-Dose CT With a Residual Encoder-Decoder Convolutional Neural Network, IEEE Transactions on Medical Imaging, 2017.12",
+        "url": "https://faculty.scu.edu.cn/chenhu/zh_CN/lwcg/8931/content/3161.htm#lwcg"
+      },
+      {
+        "title": "LEARN: Learned Experts’ Assessment-based Reconstruction Network for Sparse-data CT, IEEE Transactions on Medical Imaging, 2018.2",
+        "url": "https://faculty.scu.edu.cn/chenhu/zh_CN/lwcg/8931/content/3160.htm#lwcg"
+      }
+    ],
+    "projects": [
+      {
+        "title": "道路交通安全公安部重点实验室开放课题：基于深度学习的机动车通行安全状态感知技术研究,",
+        "url": "https://faculty.scu.edu.cn/chenhu/zh_CN/kyxm/8929/content/2122.htm#kyxm"
+      },
+      {
+        "title": "合作项目：成都铁路局“人证票合一”查验系统,",
+        "url": "https://faculty.scu.edu.cn/chenhu/zh_CN/kyxm/8929/content/2121.htm#kyxm"
+      },
+      {
+        "title": "四川省重大科技成果转化示范项目：三维人脸识别终端,",
+        "url": "https://faculty.scu.edu.cn/chenhu/zh_CN/kyxm/8929/content/2120.htm#kyxm"
+      },
+      {
+        "title": "电子信息产业发展基金：基于动态信息的智能交通系统研发及应用示范,",
+        "url": "https://faculty.scu.edu.cn/chenhu/zh_CN/kyxm/8929/content/2119.htm#kyxm"
+      },
+      {
+        "title": "国家重大仪器设备开发专项：高速高精度结构光三维测量仪器开发与应用,",
+        "url": "https://faculty.scu.edu.cn/chenhu/zh_CN/kyxm/8929/content/2118.htm#kyxm"
+      },
+      {
+        "title": "国家自然科学基金：动态视点下室外场景的在线协同式虚实结合,",
+        "url": "https://faculty.scu.edu.cn/chenhu/zh_CN/kyxm/8929/content/2117.htm#kyxm"
+      },
+      {
+        "title": "合作项目：低小慢移动目标的智能识别与跟踪,",
+        "url": "https://faculty.scu.edu.cn/chenhu/zh_CN/kyxm/8929/content/2116.htm#kyxm"
+      },
+      {
+        "title": "四川省中医药管理局科学技术研究专项项目：基于机器视觉联合人工智能技术的贵细药材（饮片）品质检测研究,",
+        "url": "https://faculty.scu.edu.cn/chenhu/zh_CN/kyxm/8929/content/2115.htm#kyxm"
+      },
+      {
+        "title": "四川省重点研发项目：基于深度视觉的智能铁轨检测的研究与实现,",
+        "url": "https://faculty.scu.edu.cn/chenhu/zh_CN/kyxm/8929/content/2114.htm#kyxm"
+      },
+      {
+        "title": "家自然科学基金：基于HEVC 的运动信息可分级的研究,",
+        "url": "https://faculty.scu.edu.cn/chenhu/zh_CN/kyxm/8929/content/2113.htm#kyxm"
+      }
+    ]
+  },
+  "caikui": {
+    "papers": [],
+    "projects": []
+  },
+  "chenli12": {
+    "papers": [],
+    "projects": []
+  },
+  "chenjie": {
+    "papers": [],
+    "projects": []
+  },
+  "chenkaimin": {
+    "papers": [],
+    "projects": []
+  },
+  "chenyantao": {
+    "papers": [],
+    "projects": []
+  },
+  "chenpeng": {
+    "papers": [],
+    "projects": []
+  },
+  "chenliangyin": {
+    "papers": [],
+    "projects": []
+  },
+  "chenyu1": {
+    "papers": [],
+    "projects": []
+  },
+  "chenrong": {
+    "papers": [],
+    "projects": []
+  },
+  "chenyuanyuan": {
+    "papers": [
+      {
+        "title": "Yuanyuan Chen,Lei Zhang*andZhang Yi, Nearest Convex Hull Classification by using Lotka-Volterra Recurrent Neural Networks.Neurocomputing, 2014, 138(11):157-166.",
+        "url": "https://faculty.scu.edu.cn/chenyuanyuan/zh_CN/lwcg/10371/content/3265.htm#lwcg"
+      },
+      {
+        "title": "Jianyong Wang, Lei Zhang,Yuanyuan Chen, and Zhang Yi*, A New Delay Connection for Long Short-Term Memory Networks.International Journal of Neural Systems, 2017, 28(3):1750061.",
+        "url": "https://faculty.scu.edu.cn/chenyuanyuan/zh_CN/lwcg/10371/content/3264.htm#lwcg"
+      },
+      {
+        "title": "Yuanyuan Chen,Lei Zhang*andZhang Yi, A Novel Low Rank Representation Algorithm for Subspace Clustering.International Journal of Pattern Recognition and Artificial Intelligence.2016, 30(04): 1650007-(01-16).",
+        "url": "https://faculty.scu.edu.cn/chenyuanyuan/zh_CN/lwcg/10371/content/3263.htm#lwcg"
+      },
+      {
+        "title": "Jianyong Wang#, Rong Ju#,Yuanyuan Chen, Lei Zhang, Junjie Hu, Yu Wu, Wentao Dong, Jie Zhong*, Zhang Yi*, Automated Retinopathy of Prematurity Screening Using Deep Neural Networks,EBioMedicine, 2018, 35:361-368",
+        "url": "https://faculty.scu.edu.cn/chenyuanyuan/zh_CN/lwcg/10371/content/3262.htm#lwcg"
+      },
+      {
+        "title": "Yuanyuan Chen,Lei ZhangandZhang Yi*, Subspace clustering using a low-rank constrained autoencoder.Information Sciences. 2018, 424: 27-38.",
+        "url": "https://faculty.scu.edu.cn/chenyuanyuan/zh_CN/lwcg/10371/content/3261.htm#lwcg"
+      },
+      {
+        "title": "Junjie Hu#,Yuanyuan Chen#,Jie Zhong*,Rong Ju*,and Zhang Yi*, Automated Analysis for Retinopathy of Prematurity by Deep Neural Networks.IEEE Transactions on Medical Imaging, 2019, 38(1):269-279",
+        "url": "https://faculty.scu.edu.cn/chenyuanyuan/zh_CN/lwcg/10371/content/3260.htm#lwcg"
+      },
+      {
+        "title": "Yuanyuan ChenandZhang Yi*,Locality-constrained least squares regression for subspace clustering,Knowledge-Based Systems. 2019,163:51-56",
+        "url": "https://faculty.scu.edu.cn/chenyuanyuan/zh_CN/lwcg/10371/content/3259.htm#lwcg"
+      },
+      {
+        "title": "Junjie Hu,Yuanyuan Chen, and Zhang Yi*, Automated segmentation of macular edema in OCT using deep neural networks,Medical Image Analysis, 2019,55:216-227",
+        "url": "https://faculty.scu.edu.cn/chenyuanyuan/zh_CN/lwcg/10371/content/3258.htm#lwcg"
+      }
+    ],
+    "projects": [
+      {
+        "title": "国家科技支撑计划子课题任务，影视戏曲特色文化资源服务系统及共性技术研发，2014/1-2016/12，20万元,",
+        "url": "https://faculty.scu.edu.cn/chenyuanyuan/zh_CN/kyxm/10369/content/2174.htm#kyxm"
+      },
+      {
+        "title": "四川省应用基础研究项目，面向视频分析的深度神经网络方法，2017/3-2020/2，10万元,",
+        "url": "https://faculty.scu.edu.cn/chenyuanyuan/zh_CN/kyxm/10369/content/2173.htm#kyxm"
+      },
+      {
+        "title": "国家科技重大专项子课题任务，流感多时空多尺度传播动力学模型及应用体系构建，2018/1-2020/12，14.4万元,",
+        "url": "https://faculty.scu.edu.cn/chenyuanyuan/zh_CN/kyxm/10369/content/2172.htm#kyxm"
+      },
+      {
+        "title": "国家自然科学基金青年项目，数据表达的低秩约束深度神经网络方法，2018/1-2020/12，22万元,",
+        "url": "https://faculty.scu.edu.cn/chenyuanyuan/zh_CN/kyxm/10369/content/2171.htm#kyxm"
+      }
+    ]
+  },
+  "dairong": {
+    "papers": [],
+    "projects": []
+  },
+  "chenzhengmao": {
+    "papers": [],
+    "projects": []
+  },
+  "chengyanhong": {
+    "papers": [],
+    "projects": []
+  },
+  "daishucheng": {
+    "papers": [],
+    "projects": []
+  },
+  "dongtiangang": {
+    "papers": [],
+    "projects": []
+  },
+  "duzhongjun": {
+    "papers": [],
+    "projects": []
+  },
+  "duanlei": {
+    "papers": [],
+    "projects": [
+      {
+        "title": "教育部高等学校博士学科点专项科研基金（编号：20100181120029）,",
+        "url": "https://faculty.scu.edu.cn/duanlei/zh_CN/kyxm/9811/content/2154.htm#kyxm"
+      },
+      {
+        "title": "中国博士后科学基金（编号：2014M552371）,",
+        "url": "https://faculty.scu.edu.cn/duanlei/zh_CN/kyxm/9811/content/2153.htm#kyxm"
+      },
+      {
+        "title": "国家自然科学基金（编号：61572332，61103042）,",
+        "url": "https://faculty.scu.edu.cn/duanlei/zh_CN/kyxm/9811/content/2152.htm#kyxm"
+      }
+    ]
+  },
+  "fengweisen": {
+    "papers": [],
+    "projects": []
+  },
+  "feixiangdong": {
+    "papers": [],
+    "projects": []
+  },
+  "gaoshaobing": {
+    "papers": [
+      {
+        "title": "Zhen He,Shaobing Gao, Liang Xiao, David Barber. Wider and Deeper, Cheaper and Faster: Tensorized LSTMs for Sequence Learning. NIPS 2017",
+        "url": "https://faculty.scu.edu.cn/gaoshaobing/zh_CN/lwcg/8085/content/2957.htm#lwcg"
+      },
+      {
+        "title": "Kaifu Yang,Shaobing Gao, Chaoyi Li, Yongjie Li. Efficient color boundary detection with color-opponent mechanisms. Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR). pp. 2810-2817 (2013)",
+        "url": "https://faculty.scu.edu.cn/gaoshaobing/zh_CN/lwcg/8085/content/2956.htm#lwcg"
+      },
+      {
+        "title": "Kaifu Yang,Shaobing Gao, Yongjie Li. Efficient illuminant estimation for color constancy using grey pixels [C]//2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR). IEEE, 2015: 2254-2263.",
+        "url": "https://faculty.scu.edu.cn/gaoshaobing/zh_CN/lwcg/8085/content/2955.htm#lwcg"
+      },
+      {
+        "title": "Shaobing Gao, Wangwang Han, Kaifu Yang, Chaoyi Li, Yongjie Li. Efficient color constancy with local surface reflectance statistics. In Proceedings of the European Conference on Computer Vision (ECCV)",
+        "url": "https://faculty.scu.edu.cn/gaoshaobing/zh_CN/lwcg/8085/content/2954.htm#lwcg"
+      },
+      {
+        "title": "Shaobing Gao, Kaifu Yang, Chaoyi Li, Yongjie Li. A color constancy model with double-opponency mechanisms. Proc. IEEE International Conference on Computer Vision (ICCV). pp. 929–936 (2013), Oral paper",
+        "url": "https://faculty.scu.edu.cn/gaoshaobing/zh_CN/lwcg/8085/content/2953.htm#lwcg"
+      },
+      {
+        "title": "Xianshi Zhang,Shaobing Gao, Chaoyi Li, Yongjie Li. A retina inspired model for enhancing visibility of hazy images [J]. Frontiers in Computational Neuroscience, 2015, 9",
+        "url": "https://faculty.scu.edu.cn/gaoshaobing/zh_CN/lwcg/8085/content/2952.htm#lwcg"
+      },
+      {
+        "title": "Xianshi Zhang,Shaobing Gao, Chaoyi Li, Yongjie Li. A retinal mechanism inspired color constancy model [J]. IEEE Transactions on Image Processing, 2016, 25(3): 1219-1232",
+        "url": "https://faculty.scu.edu.cn/gaoshaobing/zh_CN/lwcg/8085/content/2951.htm#lwcg"
+      },
+      {
+        "title": "Kaifu Yang,Shaobing Gao, Chaoyi Li, Yongjie Li.. Boundary detection using double-opponency and spatial sparseness constraint [J]. IEEE Transactions on Image Processing, 2015, 24(8): 2565-2578",
+        "url": "https://faculty.scu.edu.cn/gaoshaobing/zh_CN/lwcg/8085/content/2950.htm#lwcg"
+      },
+      {
+        "title": "Shaobing Gao, Ming Zhang, Chaoyi Li, Yongjie Li. Improving color constancy by discounting the variation of camera spectral sensitivity [J]. Journal of Optical Society of America A, 2017, 34(8): 1448-1462.",
+        "url": "https://faculty.scu.edu.cn/gaoshaobing/zh_CN/lwcg/8085/content/2949.htm#lwcg"
+      },
+      {
+        "title": "Shaobing Gao, Kaifu Yang, Chaoyi Li, Yongjie Li. Color constancy using double-opponency [J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2015, 37(10): 1973-1985.",
+        "url": "https://faculty.scu.edu.cn/gaoshaobing/zh_CN/lwcg/8085/content/2948.htm#lwcg"
+      }
+    ],
+    "projects": []
+  },
+  "fujingtao": {
+    "papers": [],
+    "projects": []
+  },
+  "fengziliang": {
+    "papers": [
+      {
+        "title": "Preparation of LiNbO3:Zn+Mg Single Crystal Fibers, Cryst. Res. Technol., 31(3), K27-K28, 1996",
+        "url": "https://faculty.scu.edu.cn/fengziliang/zh_CN/lwcg/8013/content/2946.htm#lwcg"
+      },
+      {
+        "title": "基于空间交点强度的被动式多传感器数据关联，控制与决策，16(5)：561-564，2001",
+        "url": "https://faculty.scu.edu.cn/fengziliang/zh_CN/lwcg/8013/content/2945.htm#lwcg"
+      },
+      {
+        "title": "一种飞机低高预警检测算法及实现，四川大学学报(自然科学版)，38(4)：509-513，2001",
+        "url": "https://faculty.scu.edu.cn/fengziliang/zh_CN/lwcg/8013/content/2944.htm#lwcg"
+      },
+      {
+        "title": "飞行计划与雷达航迹关联算法及实现，四川大学学报(自然科学版)，40(1)：171-173，2003",
+        "url": "https://faculty.scu.edu.cn/fengziliang/zh_CN/lwcg/8013/content/2943.htm#lwcg"
+      },
+      {
+        "title": "航空器防相撞技术体系研究，空中交通管理，2009(8):18-20, 2009",
+        "url": "https://faculty.scu.edu.cn/fengziliang/zh_CN/lwcg/8013/content/2942.htm#lwcg"
+      },
+      {
+        "title": "A Data Authentication Solution of ADS-B System Based on X.509 Certificate, ICAS2010, Sep.19-24 2010, Nice, France, 10.7.3",
+        "url": "https://faculty.scu.edu.cn/fengziliang/zh_CN/lwcg/8013/content/2941.htm#lwcg"
+      },
+      {
+        "title": "光照变动条件下基于图切割算法的运动目标跟踪，光电子激光，23(5):986-992，2012",
+        "url": "https://faculty.scu.edu.cn/fengziliang/zh_CN/lwcg/8013/content/2940.htm#lwcg"
+      }
+    ],
+    "projects": []
+  },
+  "fukeren": {
+    "papers": [
+      {
+        "title": "Chen Gong, Keren Fu, Artur Loza, Qiang Wu, Jia Liu, Jie Yang, PageRank Tracker: From ranking to tracking, IEEE Transactions on Cybernetics, 2014, 44(6): 882-893",
+        "url": "https://faculty.scu.edu.cn/fukeren/zh_CN/lwcg/8121/content/2979.htm#lwcg"
+      },
+      {
+        "title": "Chen Gong, Keren Fu, Qiang Wu, Enmei Tu, Jie Yang, Semi-supervised classification with pairwise constraints, Neurocomputing, 2014, 139: 130-137",
+        "url": "https://faculty.scu.edu.cn/fukeren/zh_CN/lwcg/8121/content/2978.htm#lwcg"
+      },
+      {
+        "title": "Tao Zhou, Xiangjian He, Kai Xie, Keren Fu, Junhao Zhang, Jie Yang, Robust visual tracking via efficient manifold ranking with low-dimensional compressive features, Pattern Recognition, 2015, 48(8): 2459-2473",
+        "url": "https://faculty.scu.edu.cn/fukeren/zh_CN/lwcg/8121/content/2977.htm#lwcg"
+      },
+      {
+        "title": "Chen Gong, Tongliang Liu, Dacheng Tao, Keren Fu, Enmei Tu, Jie Yang, Deformed graph Laplacian for semisupervised learning, IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2015, 26(10): 2261-2274",
+        "url": "https://faculty.scu.edu.cn/fukeren/zh_CN/lwcg/8121/content/2976.htm#lwcg"
+      },
+      {
+        "title": "Chen Gong, Dacheng Tao, Keren Fu, Jie Yang, FLAP: Fick's Law Assisted Propagation for Semisupervised Learning, IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2015, 26(9): 2148-2162",
+        "url": "https://faculty.scu.edu.cn/fukeren/zh_CN/lwcg/8121/content/2975.htm#lwcg"
+      },
+      {
+        "title": "Chen Gong, Dacheng Tao, Wei Liu, S.J. Maybank, Meng Fang, Keren Fu, Jie Yang, Saliency Propagation from Simple to Difficult, IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2015: 2531-2539",
+        "url": "https://faculty.scu.edu.cn/fukeren/zh_CN/lwcg/8121/content/2974.htm#lwcg"
+      },
+      {
+        "title": "Yijun Li, Keren Fu, Zhi Liu, Jie Yang, Efficient Saliency-Model-Guided Visual Co-Saliency Detection, IEEE Signal Processing Letters, 2015, 22(5): 588-592",
+        "url": "https://faculty.scu.edu.cn/fukeren/zh_CN/lwcg/8121/content/2973.htm#lwcg"
+      },
+      {
+        "title": "Fanghui Liu, Tao Zhou, Keren Fu, Jie Yang, Robust visual tracking via constrained correlation filter coding, Pattern Recognition Letters, 2016, 84: 163-169",
+        "url": "https://faculty.scu.edu.cn/fukeren/zh_CN/lwcg/8121/content/2972.htm#lwcg"
+      },
+      {
+        "title": "Chenjie Ge, Keren Fu, Fanghui Liu, Li Bai, Jie Yang, Co-saliency detection via inter and intra saliency propagation, Signal processing: Image Communication, 2016, 44: 69-83",
+        "url": "https://faculty.scu.edu.cn/fukeren/zh_CN/lwcg/8121/content/2971.htm#lwcg"
+      },
+      {
+        "title": "Fanghui Liu, Tao Zhou, Keren Fu, Jie Yang, Kernelized Temporal Locality Learning for Real-time Visual Tracking, Pattern Recognition Letters, 2017, 90: 72-79",
+        "url": "https://faculty.scu.edu.cn/fukeren/zh_CN/lwcg/8121/content/2970.htm#lwcg"
+      }
+    ],
+    "projects": []
+  },
+  "gaowei": {
+    "papers": [],
+    "projects": []
+  },
+  "gelong": {
+    "papers": [],
+    "projects": []
+  },
+  "gengtianyu": {
+    "papers": [],
+    "projects": []
+  },
+  "guobing": {
+    "papers": [],
+    "projects": []
+  },
+  "mupanliang": {
+    "papers": [],
+    "projects": []
+  },
+  "guojixiang": {
+    "papers": [],
+    "projects": []
+  },
+  "guoxinming": {
+    "papers": [],
+    "projects": []
+  },
+  "hejun": {
+    "papers": [],
+    "projects": [
+      {
+        "title": "作为主研参与多项国家863、国家自然科学基金的项目研发,",
+        "url": "https://faculty.scu.edu.cn/hejun/zh_CN/kyxm/10819/content/2200.htm#kyxm"
+      },
+      {
+        "title": "作为负责人已主持多项省部级、校级、校企合作的理论研究、系统开发、教改方面的课题,",
+        "url": "https://faculty.scu.edu.cn/hejun/zh_CN/kyxm/10819/content/2199.htm#kyxm"
+      }
+    ]
+  },
+  "hekun": {
+    "papers": [
+      {
+        "title": "Chang Liu, Kun He, Jiliu Zhou, FangNian Lang. Discriminant Orthogonal Rank-one Tensor Projections in Extended Graph Embedding Framework, Information-An International Interdisciplinary Journal, 15(8), pp,3423-3440,2012",
+        "url": "https://faculty.scu.edu.cn/hekun/zh_CN/lwcg/10497/content/3275.htm#lwcg"
+      },
+      {
+        "title": "何坤,琚生根等.TV数值计算的图像去噪[J].电子科技大学学报（自然科学版），2013,42（2）",
+        "url": "https://faculty.scu.edu.cn/hekun/zh_CN/lwcg/10497/content/3274.htm#lwcg"
+      },
+      {
+        "title": "何坤, 周激流, 刘昶, 刘然.基于局部保边函数的低信噪比图像去噪四川大学学报(工程科学版), 02期, 2009/3/15",
+        "url": "https://faculty.scu.edu.cn/hekun/zh_CN/lwcg/10497/content/3273.htm#lwcg"
+      },
+      {
+        "title": "何坤, 符颖,林涛等. 基于保边函数的图像去噪[J].辽宁工程技术大学学报(自然科学版), 31(1),pp.139-144,2012",
+        "url": "https://faculty.scu.edu.cn/hekun/zh_CN/lwcg/10497/content/3272.htm#lwcg"
+      }
+    ],
+    "projects": [
+      {
+        "title": "关于建立“湖泊生态恢复与监控研究室”的合作协议,",
+        "url": "https://faculty.scu.edu.cn/hekun/zh_CN/kyxm/10495/content/2180.htm#kyxm"
+      },
+      {
+        "title": "分数阶微积分应用于医学核磁共振图像处理的理论与技术,",
+        "url": "https://faculty.scu.edu.cn/hekun/zh_CN/kyxm/10495/content/2179.htm#kyxm"
+      },
+      {
+        "title": "容延迟移动传感器网络中通信协议的研究,",
+        "url": "https://faculty.scu.edu.cn/hekun/zh_CN/kyxm/10495/content/2178.htm#kyxm"
+      },
+      {
+        "title": "分数阶微积分算法设计及其在信息处理中应用的研究,",
+        "url": "https://faculty.scu.edu.cn/hekun/zh_CN/kyxm/10495/content/2177.htm#kyxm"
+      },
+      {
+        "title": "数字图像篡改认证技术研究与应用,",
+        "url": "https://faculty.scu.edu.cn/hekun/zh_CN/kyxm/10495/content/2176.htm#kyxm"
+      },
+      {
+        "title": "主持和参与了多项科研项目:主要包括数字图篡改认证,",
+        "url": "https://faculty.scu.edu.cn/hekun/zh_CN/kyxm/10495/content/2175.htm#kyxm"
+      }
+    ]
+  },
+  "hongmei": {
+    "papers": [],
+    "projects": []
+  },
+  "hudasha": {
+    "papers": [],
+    "projects": []
+  },
+  "hezhenan": {
+    "papers": [
+      {
+        "title": "Gary G. Yen and Zhenan He, “Performance Metrics Ensemble for Multiobjective Evolutionary Algorithms,” IEEE Transactions on Evolutionary Computation, vol. 18, no. 1, pp. 131-144, 2014.",
+        "url": "https://faculty.scu.edu.cn/hezhenan/zh_CN/lwcg/7995/content/2939.htm#lwcg"
+      },
+      {
+        "title": "Zhenan He, Gary G. Yen and Jun Zhang, “Fuzzy-Based Pareto Optimality for Many-Objective Evolutionary Algorithms,” IEEE Transactions on Evolutionary Computation, vol. 18, no. 2, pp. 269-285, 2014.",
+        "url": "https://faculty.scu.edu.cn/hezhenan/zh_CN/lwcg/7995/content/2938.htm#lwcg"
+      },
+      {
+        "title": "Zhenan He and Gary G. Yen, “Many-Objective Evolutionary Algorithm: Objective Space Reduction + Diversity Improvement,” IEEE Transactions on Evolutionary Computation, vol. 20, no. 1, pp. 145-160, 2016.",
+        "url": "https://faculty.scu.edu.cn/hezhenan/zh_CN/lwcg/7995/content/2937.htm#lwcg"
+      },
+      {
+        "title": "Zhenan He and Gary G. Yen, “Visualization and Performance Metric in Many-Objective Optimization” IEEE Transactions on Evolutionary Computation, vol. 20, no. 3, pp. 386-402, 2016.",
+        "url": "https://faculty.scu.edu.cn/hezhenan/zh_CN/lwcg/7995/content/2936.htm#lwcg"
+      },
+      {
+        "title": "Zhenan He and Gary G. Yen, “Many-Objective Evolutionary Algorithms Based on Coordinated Selection Strategy,” IEEE Transactions on Evolutionary Computation, vol. 2, no. 2, pp. 220-233, 2017.",
+        "url": "https://faculty.scu.edu.cn/hezhenan/zh_CN/lwcg/7995/content/2935.htm#lwcg"
+      }
+    ],
+    "projects": []
+  },
+  "guoquan": {
+    "papers": [],
+    "projects": []
+  },
+  "houchaohuan": {
+    "papers": [
+      {
+        "title": "High-Speed FFT Chip Test. Proceedings of the 1st. International. Conference",
+        "url": "https://faculty.scu.edu.cn/houchaohuan/zh_CN/lwcg/8463/content/3017.htm#lwcg"
+      },
+      {
+        "title": "Signal Processing and Digital System Integration. Proceedings of the 3rd National Conference on ASIC:20.",
+        "url": "https://faculty.scu.edu.cn/houchaohuan/zh_CN/lwcg/8463/content/3016.htm#lwcg"
+      },
+      {
+        "title": "The Chip design of digital beam forming. Proceeding of the 1991 International Conference on circuits and systems：1005-1007.",
+        "url": "https://faculty.scu.edu.cn/houchaohuan/zh_CN/lwcg/8463/content/3015.htm#lwcg"
+      },
+      {
+        "title": "An ASIC Design for adaptive beam-forming. Proceeding of the 1991 International Conference on circuits and systems.",
+        "url": "https://faculty.scu.edu.cn/houchaohuan/zh_CN/lwcg/8463/content/3014.htm#lwcg"
+      }
+    ],
+    "projects": []
+  },
+  "huangyanhui": {
+    "papers": [],
+    "projects": []
+  },
+  "huangge": {
+    "papers": [],
+    "projects": []
+  },
+  "jinjun": {
+    "papers": [],
+    "projects": []
+  },
+  "jiangyuming": {
+    "papers": [],
+    "projects": []
+  },
+  "hushu": {
+    "papers": [],
+    "projects": []
+  },
+  "lanshiyong": {
+    "papers": [],
+    "projects": []
+  },
+  "jiangxinrong": {
+    "papers": [],
+    "projects": []
+  },
+  "huangwu": {
+    "papers": [],
+    "projects": []
+  },
+  "lihui": {
+    "papers": [],
+    "projects": []
+  },
+  "lihuixiao": {
+    "papers": [],
+    "projects": []
+  },
+  "lichuan": {
+    "papers": [
+      {
+        "title": "InfoNetOLAPer: Integrating InfoNetWarehouse and InfoNetCube with InfoNetOLAP",
+        "url": "https://faculty.scu.edu.cn/lichuan/zh_CN/lwcg/10641/content/3277.htm#lwcg"
+      }
+    ],
+    "projects": []
+  },
+  "lihongying": {
+    "papers": [],
+    "projects": []
+  },
+  "lilin": {
+    "papers": [],
+    "projects": []
+  },
+  "lixiaohua": {
+    "papers": [
+      {
+        "title": "李晓华，沈兰荪，基于压缩域的图像检索技术，计算机学报，2003，26（9）：1051～1059",
+        "url": "https://faculty.scu.edu.cn/lixiaohua/zh_CN/lwcg/9273/content/3198.htm#lwcg"
+      },
+      {
+        "title": "李晓华，沈兰荪。基于多级梯度能量描述的压缩域人脸检测. 电子与信息学刊, 2005，27(12):1909-1915",
+        "url": "https://faculty.scu.edu.cn/lixiaohua/zh_CN/lwcg/9273/content/3197.htm#lwcg"
+      },
+      {
+        "title": "Li xiaohua, Shen lansun, Li Huanqin. Estimation of crowd density based on wavelet and support vector machine, Transactions of the Institute of Measurement and Control, 2006, 28(3):299-308",
+        "url": "https://faculty.scu.edu.cn/lixiaohua/zh_CN/lwcg/9273/content/3196.htm#lwcg"
+      },
+      {
+        "title": "Li Xiaohua, Shen Lansun. Fast Text Location Based on Discrete Wavelet Transform. Journal of Electronics, 2005, 22（4）385-394",
+        "url": "https://faculty.scu.edu.cn/lixiaohua/zh_CN/lwcg/9273/content/3195.htm#lwcg"
+      },
+      {
+        "title": "Xiaohua Li，Kin-Man Lam，Lansun Shen. Face detection using simplified Gabor features and hierarchical regions in a cascade of classifiers。Pattern Recognition Letters， 30 (2009) 717–728",
+        "url": "https://faculty.scu.edu.cn/lixiaohua/zh_CN/lwcg/9273/content/3194.htm#lwcg"
+      }
+    ],
+    "projects": [
+      {
+        "title": "国家自然科学基金面上项目（51171124）。2012-2015，第一主研,",
+        "url": "https://faculty.scu.edu.cn/lixiaohua/zh_CN/kyxm/9271/content/2138.htm#kyxm"
+      },
+      {
+        "title": "国家自然科学基金面上项目（50771069 ），2008-2010，第一主研,",
+        "url": "https://faculty.scu.edu.cn/lixiaohua/zh_CN/kyxm/9271/content/2137.htm#kyxm"
+      },
+      {
+        "title": "国家自然科学基金面上项目（60172045），2002-2004，第二主研,",
+        "url": "https://faculty.scu.edu.cn/lixiaohua/zh_CN/kyxm/9271/content/2136.htm#kyxm"
+      },
+      {
+        "title": "四川省科技厅支撑计划项目（2011GZ0187 ），2011-2013，主持,",
+        "url": "https://faculty.scu.edu.cn/lixiaohua/zh_CN/kyxm/9271/content/2135.htm#kyxm"
+      },
+      {
+        "title": "北京市自然科学基金，（4062006），2006-2008，主持,",
+        "url": "https://faculty.scu.edu.cn/lixiaohua/zh_CN/kyxm/9271/content/2134.htm#kyxm"
+      },
+      {
+        "title": "国家自然科学基金青年基金项目（60402036），2005-2006，主持,",
+        "url": "https://faculty.scu.edu.cn/lixiaohua/zh_CN/kyxm/9271/content/2133.htm#kyxm"
+      }
+    ]
+  },
+  "limao": {
+    "papers": [],
+    "projects": []
+  },
+  "lixiaofeng": {
+    "papers": [],
+    "projects": []
+  },
+  "liqiang": {
+    "papers": [],
+    "projects": [
+      {
+        "title": "四川省科技厅基础研究项目“移动云计算环境下能量感知的资源分配优化”负责人,",
+        "url": "https://faculty.scu.edu.cn/liqiang/zh_CN/kyxm/9343/content/2141.htm#kyxm"
+      },
+      {
+        "title": "国家自然科学基金面上项目“智能移动嵌入式系统的协同节能关键技术”主研,",
+        "url": "https://faculty.scu.edu.cn/liqiang/zh_CN/kyxm/9343/content/2140.htm#kyxm"
+      },
+      {
+        "title": "国家自然科学基金重点项目“嵌入式系统的低能耗软件设计方法与技术研究”主研,",
+        "url": "https://faculty.scu.edu.cn/liqiang/zh_CN/kyxm/9343/content/2139.htm#kyxm"
+      }
+    ]
+  },
+  "lixinsheng": {
+    "papers": [],
+    "projects": []
+  },
+  "liyi": {
+    "papers": [],
+    "projects": []
+  },
+  "linjianhui": {
+    "papers": [],
+    "projects": []
+  },
+  "lizheng": {
+    "papers": [],
+    "projects": []
+  },
+  "lintao1": {
+    "papers": [],
+    "projects": [
+      {
+        "title": "自适应游戏开发平台关键技术及应用研究,",
+        "url": "https://faculty.scu.edu.cn/lintao1/zh_CN/kyxm/10135/content/2163.htm#kyxm"
+      },
+      {
+        "title": "支持手绘草图交互与模型复用的三维卡通模型创作平台关键技术研究,",
+        "url": "https://faculty.scu.edu.cn/lintao1/zh_CN/kyxm/10135/content/2162.htm#kyxm"
+      },
+      {
+        "title": "基于多通道感情识别的交互娱乐评估技术研究,",
+        "url": "https://faculty.scu.edu.cn/lintao1/zh_CN/kyxm/10135/content/2161.htm#kyxm"
+      }
+    ]
+  },
+  "lixuwei": {
+    "papers": [],
+    "projects": []
+  },
+  "linfeng": {
+    "papers": [],
+    "projects": []
+  },
+  "liujianbo": {
+    "papers": [],
+    "projects": []
+  },
+  "linlan": {
+    "papers": [],
+    "projects": []
+  },
+  "liuhong": {
+    "papers": [],
+    "projects": []
+  },
+  "liuyanli": {
+    "papers": [
+      {
+        "title": "Yanli Liu, Xavier Granier. Online Tracking of Outdoor Lighting Variations for Augmented Reality with Moving Cameras. IEEE Transactions on Visualization and Computer Graphics, 18(4):573-580, 2012",
+        "url": "https://faculty.scu.edu.cn/liuyanli/zh_CN/lwcg/9039/content/3179.htm#lwcg"
+      },
+      {
+        "title": "Qi Dong, Yanli Liu, Qijun Zhao Hongyu Yang. Detecting Soft Shadows in a Single Outdoor Image: From local edge-based models to global constraints, 38:310-319, Computer &amp; Graphics, 2014.",
+        "url": "https://faculty.scu.edu.cn/liuyanli/zh_CN/lwcg/9039/content/3178.htm#lwcg"
+      },
+      {
+        "title": "Yanli Liu, Xianghui Chen, Tianlun Gu, Yanci Zhang, Guanyu Xing. Real-Time Camera Pose Estimation via Line Tracking, The Visual Computer, 34(6-8): 899-909, 2018.",
+        "url": "https://faculty.scu.edu.cn/liuyanli/zh_CN/lwcg/9039/content/3177.htm#lwcg"
+      },
+      {
+        "title": "Xianjun Han, Hongyu Yang, Guanyu Xing,Yanli Liu. Asymmetric Joint GANs for Normalizing Face Illumination from a Single Image. IEEE Transactions on Multimedia, DOI:10.1109/TMM.2019.2945197, 2019.",
+        "url": "https://faculty.scu.edu.cn/liuyanli/zh_CN/lwcg/9039/content/3176.htm#lwcg"
+      },
+      {
+        "title": "Xianjun Han,Yanli Liu,Hongyu Yang, Guanyu Xing, Yanci Zhang, Normalization of Face Illumination with Photorealistic Texture via Deep Image Prior Synthesis. Neurocomputing, 386:305-316, 2020",
+        "url": "https://faculty.scu.edu.cn/liuyanli/zh_CN/lwcg/9039/content/3175.htm#lwcg"
+      },
+      {
+        "title": "Guanyu Xing,Yanli Liu, Haibin Ling, Xavier Granier and Yanci Zhang, Automatic Spatially Varying Illumination Recovery of Indoor Scenes Based on a Single RGB-D Image, IEEE Transactions on Visualization and Computers Graphics, 26(4):1672-1685,2020.",
+        "url": "https://faculty.scu.edu.cn/liuyanli/zh_CN/lwcg/9039/content/3174.htm#lwcg"
+      }
+    ],
+    "projects": [
+      {
+        "title": "国家科技支撑计划子课题：数字化景区应急疏散模拟系统开发，2012BAH62F02，20万 元，2012.12-2015.11，主持,",
+        "url": "https://faculty.scu.edu.cn/liuyanli/zh_CN/kyxm/9037/content/2127.htm#kyxm"
+      },
+      {
+        "title": "装备发展部重点实验室基金,61424080109，基于增强现实的实时红外场景生成方法，2018/01-2019/12, 30万，主持,",
+        "url": "https://faculty.scu.edu.cn/liuyanli/zh_CN/kyxm/9037/content/2126.htm#kyxm"
+      },
+      {
+        "title": "国家自然科学基金青年项目，61103137，室外场景的实时光照估计研究，2012/01-2014/12, 22万，主持,",
+        "url": "https://faculty.scu.edu.cn/liuyanli/zh_CN/kyxm/9037/content/2125.htm#kyxm"
+      },
+      {
+        "title": "国家自然科学基金面上项目，61572333，动态视点下室外场景的在线协同式虚实融合，2016/01-2019/12，66万元，主持,",
+        "url": "https://faculty.scu.edu.cn/liuyanli/zh_CN/kyxm/9037/content/2124.htm#kyxm"
+      },
+      {
+        "title": "国家自然科学基金面上项目，61972271，大规模人脸识别图像数据库的光照多样性分析与增强，2020/01-2023/12，59万元，主持,",
+        "url": "https://faculty.scu.edu.cn/liuyanli/zh_CN/kyxm/9037/content/2123.htm#kyxm"
+      }
+    ]
+  },
+  "liuquanhui": {
+    "papers": [
+      {
+        "title": "Q.-H. Liu, X. Xiong, Q. Zhang, N. Perra#. Epidemic spreading on time-varying multiplex networks. Physical Review E 98 (2), 062303 (2018).",
+        "url": "https://faculty.scu.edu.cn/liuquanhui/zh_CN/lwcg/8175/content/2984.htm#lwcg"
+      },
+      {
+        "title": "T. Zhou, Q.-H. Liu#, Z. Yang, J. Liao, K. Yang, W. Bai, X. Lu#, W. Zhang#. Preliminary prediction of the basic reproduction number of the Wuhan novel coronavirus 2019-nCoV. Journal of Evidence-Based Medicine 13(1),3-7 (2020) (#共同通讯).",
+        "url": "https://faculty.scu.edu.cn/liuquanhui/zh_CN/lwcg/8175/content/2983.htm#lwcg"
+      },
+      {
+        "title": "W. Wang, Q.-H. Liu, J.-H. Liang, Y.-Q. Hu, T. Zhou#. Coevolution spreading in complex networks. Physics Reports 820:1-51 (2019) (IF: 28.295).",
+        "url": "https://faculty.scu.edu.cn/liuquanhui/zh_CN/lwcg/8175/content/2982.htm#lwcg"
+      },
+      {
+        "title": "M. Litvinova*, Q.-H. Liu*, E. S. Kulikov, M. Ajelli. Reactive school closure weakens the network of social interactions and the spread of influenza. PNAS 116(27), 13174-13181 (2019) (IF: 9.504) (*共同一作).",
+        "url": "https://faculty.scu.edu.cn/liuquanhui/zh_CN/lwcg/8175/content/2981.htm#lwcg"
+      },
+      {
+        "title": "Q.-H. Liu, M. Ajelli, A. Aleta, S. Merler, Y. Moreno, A. Vespignani. Measurability of the epidemic reproduction number in data-driven contact networks. PNAS 115 (50), 12680–12685 (2018) (IF: 9.504).",
+        "url": "https://faculty.scu.edu.cn/liuquanhui/zh_CN/lwcg/8175/content/2980.htm#lwcg"
+      }
+    ],
+    "projects": [
+      {
+        "title": "中央高校基金 20822041D4100（2019，主持）,",
+        "url": "https://faculty.scu.edu.cn/liuquanhui/zh_CN/kyxm/8173/content/2087.htm#kyxm"
+      },
+      {
+        "title": "四川大学应急项目 2020scunCoV应急20008（2020，主持）,",
+        "url": "https://faculty.scu.edu.cn/liuquanhui/zh_CN/kyxm/8173/content/2086.htm#kyxm"
+      },
+      {
+        "title": "成都市科技局技术创新研发项目 2020-YF05-00073-SN（2020，主持）,",
+        "url": "https://faculty.scu.edu.cn/liuquanhui/zh_CN/kyxm/8173/content/2085.htm#kyxm"
+      },
+      {
+        "title": "四川省科技厅重点研发项目 2020YFS0007（2020，子课题负责人）,",
+        "url": "https://faculty.scu.edu.cn/liuquanhui/zh_CN/kyxm/8173/content/2084.htm#kyxm"
+      },
+      {
+        "title": "国家社会科学基金重大项目 20&ZD112（2021，子课题负责人）,",
+        "url": "https://faculty.scu.edu.cn/liuquanhui/zh_CN/kyxm/8173/content/2083.htm#kyxm"
+      },
+      {
+        "title": "国家自然科学基金 62003230（2021，主持）；,",
+        "url": "https://faculty.scu.edu.cn/liuquanhui/zh_CN/kyxm/8173/content/2082.htm#kyxm"
+      }
+    ]
+  },
+  "liujun": {
+    "papers": [],
+    "projects": []
+  },
+  "liuyiguang": {
+    "papers": [
+      {
+        "title": "Yiguang Liu(刘怡光), Zhisheng You and Liping Cao, On the Almost Periodic Solution of Cellular Neural Networks with Distributed Delays, IEEE Transactions on Neural Networks, vol. 18, no. 1, Jan. 2007, 295-300. https://doi.org/10.1109/TNN.2006.885441",
+        "url": "https://faculty.scu.edu.cn/liuyiguang/zh_CN/lwcg/10785/content/3292.htm#lwcg"
+      },
+      {
+        "title": "Menglong Yang, Yiguang Liu(刘怡光), Zhisheng You, The Reliability of Travel Time Forecasting, IEEE Transactions on Intelligent Transportation Systems, vol.11, no.1, 2010,162-171. https://doi.org/10.1109/TITS.2009.2037136",
+        "url": "https://faculty.scu.edu.cn/liuyiguang/zh_CN/lwcg/10785/content/3291.htm#lwcg"
+      },
+      {
+        "title": "Yiguang Liu(刘怡光), Shuzhi Sam Ge, Chunguang Li, Zhisheng You , k-NS: A Classifier by the Distance to the Nearest Subspace, IEEE Transactions on Neural Networks, vol.22, no.8, 2011, 1256-1268. https://doi.org/10.1109/TNN.2011.2153210",
+        "url": "https://faculty.scu.edu.cn/liuyiguang/zh_CN/lwcg/10785/content/3290.htm#lwcg"
+      },
+      {
+        "title": "Songyan Huang, Chunguang Li, Yiguang Liu(刘怡光), Complex-Valued Filtering Based on the Minimization of Complex-Error Entropy, IEEE Transactions on Neural Networks and Learning Systems, vol.24, no. 5, 2013, 695-708. https://doi.org/10.1109/TNNLS.2013.2241788",
+        "url": "https://faculty.scu.edu.cn/liuyiguang/zh_CN/lwcg/10785/content/3289.htm#lwcg"
+      },
+      {
+        "title": "Pengfei Wu, Yiguang Liu(刘怡光), Yongzhong Li, Bingbing Liu, Robust Prostate Segmentation Using Intrinsic Properties of TRUS Images, IEEE Transactions on Medical Imaging，vol.34, no.6, 2015, 1321-1335. https://doi.org/10.1109/TMI.2015.2388699",
+        "url": "https://faculty.scu.edu.cn/liuyiguang/zh_CN/lwcg/10785/content/3288.htm#lwcg"
+      },
+      {
+        "title": "Yiguang Liu(刘怡光), Yinjie Lei, Chunguang Li, Wenzheng Xu and Yifei Pu, A random algorithm for low-rank decomposition of large-scale matrices with missing entries, IEEE Transactions on Image Processing, Vol.24, No.11,2015,4502-4511. https://doi.org/10.1109/TIP.2015.2458176",
+        "url": "https://faculty.scu.edu.cn/liuyiguang/zh_CN/lwcg/10785/content/3287.htm#lwcg"
+      },
+      {
+        "title": "Yiguang Liu (刘怡光), Songfan Yang, Pengfei Wu, Chunguang Li and Menglong Yang, L1-Norm Low-Rank Matrix Decomposition by Neural Networks and Molliﬁers, IEEE Transactions on Neural Networks and Learning Systems,27(2), 2016, 273-283. https://doi.org/10.1109/TNNLS.2015.2496964",
+        "url": "https://faculty.scu.edu.cn/liuyiguang/zh_CN/lwcg/10785/content/3286.htm#lwcg"
+      },
+      {
+        "title": "Jie Li, Yiguang Liu(刘怡光),Shuangli Du, Pengfei Wu; Zhenyu Xu, Hierarchical and Adaptive Phase Correlation for Precise Disparity Estimation of UAV Images, IEEE Transactions on Geoscience and Remote Sensing, 54(12), 2016, 7092-7104. https://doi.org/10.1109/TGRS.2016.2595861",
+        "url": "https://faculty.scu.edu.cn/liuyiguang/zh_CN/lwcg/10785/content/3285.htm#lwcg"
+      },
+      {
+        "title": "Pengfei Wu, Yiguang Liu(刘怡光), Mao Ye, Jie Li,Shuangli Du, Fast and Adaptive 3D Reconstruction with Extensively High Completeness, IEEE Transactions on Multimedia, pp(99), 2016, 1-12. https://doi.org/10.1109/TMM.2016.2612761",
+        "url": "https://faculty.scu.edu.cn/liuyiguang/zh_CN/lwcg/10785/content/3284.htm#lwcg"
+      },
+      {
+        "title": "Pengfei Wu, Yiguang Liu(刘怡光), Mao Ye, Zhenyu Xu, Yunan Zheng, Geometry Guided Multi-Scale Depth Map Fusion via Graph Optimization, IEEE Transactions on Image Processing, pp(99), 2017, 1-14. https://doi.org/10.1109/TIP.2017.2651383",
+        "url": "https://faculty.scu.edu.cn/liuyiguang/zh_CN/lwcg/10785/content/3283.htm#lwcg"
+      }
+    ],
+    "projects": [
+      {
+        "title": "自然科学基金重点 先进塔台视景模拟系统基础理论与关键技术(60832011) 2009-2012 参与,",
+        "url": "https://faculty.scu.edu.cn/liuyiguang/zh_CN/kyxm/10783/content/2198.htm#kyxm"
+      },
+      {
+        "title": "973子课题 虚拟混合显示的高精度定位、配准技术与装置(2009CB320803) 2011-2013 参与,",
+        "url": "https://faculty.scu.edu.cn/liuyiguang/zh_CN/kyxm/10783/content/2197.htm#kyxm"
+      },
+      {
+        "title": "博士点基金 求解复矩阵特征值问题的神经网络设计及关键技术(20070610031) 2008-2010 主持,",
+        "url": "https://faculty.scu.edu.cn/liuyiguang/zh_CN/kyxm/10783/content/2196.htm#kyxm"
+      },
+      {
+        "title": "博士点基金 面向复杂样本分布的基于流形的新型核方法研究(20090181110052) 2009-2011 主持,",
+        "url": "https://faculty.scu.edu.cn/liuyiguang/zh_CN/kyxm/10783/content/2195.htm#kyxm"
+      },
+      {
+        "title": "教育部新世纪人才支持计划 多视频融合关键技术研究及实现(NCET-08-0370) 2009-2011 主持,",
+        "url": "https://faculty.scu.edu.cn/liuyiguang/zh_CN/kyxm/10783/content/2194.htm#kyxm"
+      },
+      {
+        "title": "自然科学基金 基于线性流形几何关系的新型核方法研究(60705005) 2008-2010 主持,",
+        "url": "https://faculty.scu.edu.cn/liuyiguang/zh_CN/kyxm/10783/content/2193.htm#kyxm"
+      },
+      {
+        "title": "自然科学基金 双曲时差定位的线性化及相关优化估计理论研究及实现(61179071) 2012-2014 主持,",
+        "url": "https://faculty.scu.edu.cn/liuyiguang/zh_CN/kyxm/10783/content/2192.htm#kyxm"
+      },
+      {
+        "title": "自然科学基金 基于动力系统的L1范数矩阵低秩分解及其应用研究(61173182) 2012-2015 主持,",
+        "url": "https://faculty.scu.edu.cn/liuyiguang/zh_CN/kyxm/10783/content/2191.htm#kyxm"
+      },
+      {
+        "title": "自然科学基金 基于光学孔径合成的立体超分辨率重建关键技术及其应用(61411130133) 2014-2016 主持,",
+        "url": "https://faculty.scu.edu.cn/liuyiguang/zh_CN/kyxm/10783/content/2190.htm#kyxm"
+      },
+      {
+        "title": "自然科学基金 基于曲面局部微分几何特性的图像配准与深度计算(61571313) 2016-2019 主持,",
+        "url": "https://faculty.scu.edu.cn/liuyiguang/zh_CN/kyxm/10783/content/2189.htm#kyxm"
+      }
+    ]
+  },
+  "liuxun": {
+    "papers": [],
+    "projects": []
+  },
+  "liuyijing": {
+    "papers": [],
+    "projects": [
+      {
+        "title": "移动社会网络中基于节点意愿的数据转发机制研究,学院青年基金项目,主持. 起止日期:2012-2013.2008.9-2013.6,",
+        "url": "https://faculty.scu.edu.cn/liuyijing/zh_CN/kyxm/10729/content/2188.htm#kyxm"
+      },
+      {
+        "title": "中药配方颗粒自动发药机，横向项目，主研. 起止日期：2009－2010.,",
+        "url": "https://faculty.scu.edu.cn/liuyijing/zh_CN/kyxm/10729/content/2187.htm#kyxm"
+      },
+      {
+        "title": ".在线图处理：信息网络环境中面向图的多维分析处理模型与算法研究,国家自然基金青年项目,第三主研. 起止日期：2012－2015.,",
+        "url": "https://faculty.scu.edu.cn/liuyijing/zh_CN/kyxm/10729/content/2186.htm#kyxm"
+      }
+    ]
+  },
+  "liuzhengxi": {
+    "papers": [
+      {
+        "title": "基于SVM和NN的空管手写符号的识别研究，四川大学学报（自然科学版），2008年第45卷第4期790-794。",
+        "url": "https://faculty.scu.edu.cn/liuzhengxi/zh_CN/lwcg/8661/content/3094.htm#lwcg"
+      },
+      {
+        "title": "基于Linux的多进程MDSL研究与设计，四川大学学报（自然科学版），2013年1月第50卷第1期：46~50，核心期刊论文。",
+        "url": "https://faculty.scu.edu.cn/liuzhengxi/zh_CN/lwcg/8661/content/3092.htm#lwcg"
+      },
+      {
+        "title": "基于块背景建模的运动目标检测，四川大学学报（自然科学版），2011年5月，第48卷第3期：566-570，核心期刊论文。",
+        "url": "https://faculty.scu.edu.cn/liuzhengxi/zh_CN/lwcg/8661/content/3090.htm#lwcg"
+      },
+      {
+        "title": "基于改进粒子滤波的鲁棒目标跟踪算法，光电子•激光，2011年5月，第22卷第5期：766-771，EI光盘版论文。",
+        "url": "https://faculty.scu.edu.cn/liuzhengxi/zh_CN/lwcg/8661/content/3088.htm#lwcg"
+      },
+      {
+        "title": "基于局部复杂度的环境遮挡，计算机辅助设计与图形学学报，2015年第27卷第7期，EI光盘版论文。",
+        "url": "https://faculty.scu.edu.cn/liuzhengxi/zh_CN/lwcg/8661/content/3085.htm#lwcg"
+      }
+    ],
+    "projects": []
+  },
+  "luxiaochun": {
+    "papers": [],
+    "projects": []
+  },
+  "longdi": {
+    "papers": [],
+    "projects": []
+  },
+  "lvguanghong": {
+    "papers": [],
+    "projects": []
+  },
+  "liuyu": {
+    "papers": [],
+    "projects": []
+  },
+  "lvjiancheng": {
+    "papers": [
+      {
+        "title": "International Conference Papers 6篇",
+        "url": "https://faculty.scu.edu.cn/lvjiancheng/zh_CN/lwcg/10029/content/3227.htm#lwcg"
+      },
+      {
+        "title": "Nonlinear Analysis: Real World Applications 1篇",
+        "url": "https://faculty.scu.edu.cn/lvjiancheng/zh_CN/lwcg/10029/content/3226.htm#lwcg"
+      },
+      {
+        "title": "Neural Computing and Application 2篇",
+        "url": "https://faculty.scu.edu.cn/lvjiancheng/zh_CN/lwcg/10029/content/3224.htm#lwcg"
+      },
+      {
+        "title": "Chaos, Siliton &amp; Fractals 3篇",
+        "url": "https://faculty.scu.edu.cn/lvjiancheng/zh_CN/lwcg/10029/content/3223.htm#lwcg"
+      },
+      {
+        "title": "Neurocomputing 3篇",
+        "url": "https://faculty.scu.edu.cn/lvjiancheng/zh_CN/lwcg/10029/content/3222.htm#lwcg"
+      },
+      {
+        "title": "Computers and Mathematics with Applications 3篇",
+        "url": "https://faculty.scu.edu.cn/lvjiancheng/zh_CN/lwcg/10029/content/3221.htm#lwcg"
+      },
+      {
+        "title": "Neural Processing Letters 1篇",
+        "url": "https://faculty.scu.edu.cn/lvjiancheng/zh_CN/lwcg/10029/content/3220.htm#lwcg"
+      },
+      {
+        "title": "Theoretical Computer Science 2篇",
+        "url": "https://faculty.scu.edu.cn/lvjiancheng/zh_CN/lwcg/10029/content/3219.htm#lwcg"
+      },
+      {
+        "title": "IEEE Transactions on Systems, Man and Cybernetics Part B 1篇",
+        "url": "https://faculty.scu.edu.cn/lvjiancheng/zh_CN/lwcg/10029/content/3218.htm#lwcg"
+      },
+      {
+        "title": "IEEE Transactions on Fuzzy System 1篇",
+        "url": "https://faculty.scu.edu.cn/lvjiancheng/zh_CN/lwcg/10029/content/3217.htm#lwcg"
+      }
+    ],
+    "projects": []
+  },
+  "lvzejun": {
+    "papers": [],
+    "projects": []
+  },
+  "lvxuebin": {
+    "papers": [],
+    "projects": []
+  },
+  "luoyining": {
+    "papers": [],
+    "projects": []
+  },
+  "maohua": {
+    "papers": [],
+    "projects": []
+  },
+  "luochuan": {
+    "papers": [
+      {
+        "title": "Chuan Luo, Tianrui Li, Hongmei Chen, Dun Liu: An Incremental Approach for Updating Approximations Based on Set-Valued Ordered Information Systems. RSCTC 2012: 363-369",
+        "url": "https://faculty.scu.edu.cn/luochuan/zh_CN/lwcg/8499/content/3066.htm#lwcg"
+      },
+      {
+        "title": "Shaoyong Li, Tian-rui Li, Chuan Luo: A Multi-granulation Model under Dominance-Based Rough Set Approach. RSCTC 2012: 18-25",
+        "url": "https://faculty.scu.edu.cn/luochuan/zh_CN/lwcg/8499/content/3065.htm#lwcg"
+      },
+      {
+        "title": "Chuan Luo, Tianrui Li, Hongmei Chen, Dun Liu: Dynamic maintenance strategy for approximations in set-valued ordered information systems under the attribute generalization. GrC 2012: 332-337",
+        "url": "https://faculty.scu.edu.cn/luochuan/zh_CN/lwcg/8499/content/3064.htm#lwcg"
+      },
+      {
+        "title": "Anping Zeng, Tianrui Li, Chuan Luo, Junbo Zhang, Yan Yang: A Fuzzy Rough Set Approach for Incrementally Updating Approximations in Hybrid Information Systems. RSFDGrC 2013: 157-168",
+        "url": "https://faculty.scu.edu.cn/luochuan/zh_CN/lwcg/8499/content/3063.htm#lwcg"
+      },
+      {
+        "title": "Chuan Luo, Lixia Lu, Tianrui Li, Anping Zeng, Hongmei Chen: An approach for incremental maintenance of approximations in set-valued ordered decision systems while updating criteria values. IFSA/NAFIPS 2013: 819-824",
+        "url": "https://faculty.scu.edu.cn/luochuan/zh_CN/lwcg/8499/content/3062.htm#lwcg"
+      },
+      {
+        "title": "Anping Zeng, Tianrui Li, Chuan Luo, Junbo Zhang: An incremental approach for updating approximations of rough fuzzy set under the variation of attribute values. CIDUE 2013: 54-60",
+        "url": "https://faculty.scu.edu.cn/luochuan/zh_CN/lwcg/8499/content/3061.htm#lwcg"
+      },
+      {
+        "title": "Chuan Luo, Tianrui Li, Hongmei Chen, Dun Liu: Incremental approaches for updating approximations in set-valued ordered information systems. Knowl. Based Syst. 50: 218-233 (2013)",
+        "url": "https://faculty.scu.edu.cn/luochuan/zh_CN/lwcg/8499/content/3060.htm#lwcg"
+      },
+      {
+        "title": "Chuan Luo, Tianrui Li, Hongmei Chen: Dynamic Maintenance of Three-Way Decision Rules. RSKT 2014: 801-811",
+        "url": "https://faculty.scu.edu.cn/luochuan/zh_CN/lwcg/8499/content/3059.htm#lwcg"
+      },
+      {
+        "title": "Chuan Luo, Tianrui Li: Incremental Three-Way Decisions with Incomplete Information. RSCTC 2014: 128-135",
+        "url": "https://faculty.scu.edu.cn/luochuan/zh_CN/lwcg/8499/content/3058.htm#lwcg"
+      },
+      {
+        "title": "Hongmei Chen, Tianrui Li, Chuan Luo, Shi-Jinn Horng, Guoyin Wang: A Rough Set-Based Method for Updating Decision Rules on Attribute Values' Coarsening and Refining. IEEE Trans. Knowl. Data Eng. 26(12): 2886-2899 (2014)",
+        "url": "https://faculty.scu.edu.cn/luochuan/zh_CN/lwcg/8499/content/3057.htm#lwcg"
+      }
+    ],
+    "projects": []
+  },
+  "panwei": {
+    "papers": [],
+    "projects": []
+  },
+  "panwuming": {
+    "papers": [],
+    "projects": []
+  },
+  "niyunzhu": {
+    "papers": [],
+    "projects": []
+  },
+  "pengjian": {
+    "papers": [
+      {
+        "title": "彭舰 等译 Cocoa入门：使用Objective-C（第3版）中国电力出版社， 2015年",
+        "url": "https://faculty.scu.edu.cn/pengjian/zh_CN/lwcg/9849/content/3211.htm#lwcg"
+      },
+      {
+        "title": "Li Hongyou，Wang Jiangyong, Peng Jian， et. Energy-Aware Scheduling Scheme Using Workload-Aware Consolidation Technique in Cloud Data Centers， CHINA COMMUNICATIONS, 2013, 10(12): 114-124.",
+        "url": "https://faculty.scu.edu.cn/pengjian/zh_CN/lwcg/9849/content/3210.htm#lwcg"
+      },
+      {
+        "title": "Jian Peng, et. Flow-partitioned Unequal Clustering Routing Algorithm for Wireless Sensor Networks International Journal of Distributed Sensor Networks. Volume 2014",
+        "url": "https://faculty.scu.edu.cn/pengjian/zh_CN/lwcg/9849/content/3209.htm#lwcg"
+      }
+    ],
+    "projects": []
+  },
+  "pengdezhong": {
+    "papers": [
+      {
+        "title": "Convergence analysis of a deterministic discrete time system of Feng's MCA learning algorithm（IEEE Trans. Signal Processing）",
+        "url": "https://faculty.scu.edu.cn/pengdezhong/zh_CN/lwcg/9453/content/3206.htm#lwcg"
+      },
+      {
+        "title": "Underdetermined Blind Source Separation Based on Relaxed Sparsity Condition of Sources（IEEE Trans. Signal Processing）",
+        "url": "https://faculty.scu.edu.cn/pengdezhong/zh_CN/lwcg/9453/content/3205.htm#lwcg"
+      },
+      {
+        "title": "Estimation of Basis Frequencies for Time-Varying SIMO Channels: A Second-Order Method（IEEE Trans. Signal Processing）",
+        "url": "https://faculty.scu.edu.cn/pengdezhong/zh_CN/lwcg/9453/content/3204.htm#lwcg"
+      }
+    ],
+    "projects": []
+  },
+  "pengxi": {
+    "papers": [],
+    "projects": []
+  },
+  "puyu": {
+    "papers": [],
+    "projects": []
+  },
+  "puyifei": {
+    "papers": [],
+    "projects": []
+  },
+  "qulijia": {
+    "papers": [],
+    "projects": []
+  },
+  "sangyongsheng": {
+    "papers": [],
+    "projects": []
+  },
+  "shenlin": {
+    "papers": [],
+    "projects": []
+  },
+  "shihongwei": {
+    "papers": [
+      {
+        "title": "ADS-B系统安全应用策略研究，《中国空管》，201603。",
+        "url": "https://faculty.scu.edu.cn/shihongwei/zh_CN/lwcg/10335/content/3252.htm#lwcg"
+      },
+      {
+        "title": "一种基于ADS-B信息的冲突告警算法，《计算机与现代化》2015年第11期；",
+        "url": "https://faculty.scu.edu.cn/shihongwei/zh_CN/lwcg/10335/content/3250.htm#lwcg"
+      },
+      {
+        "title": "提高空中交通管制GIS数据查询速度的方案研究，《计算机工程与设计》2010；",
+        "url": "https://faculty.scu.edu.cn/shihongwei/zh_CN/lwcg/10335/content/3248.htm#lwcg"
+      },
+      {
+        "title": "基于均值漂移和模糊C均值聚类的图像分割算法，《计算机上应用与软件》2013；",
+        "url": "https://faculty.scu.edu.cn/shihongwei/zh_CN/lwcg/10335/content/3246.htm#lwcg"
+      },
+      {
+        "title": "改进的基于屏幕空间的环境遮挡，Chinagraph 2012；",
+        "url": "https://faculty.scu.edu.cn/shihongwei/zh_CN/lwcg/10335/content/3245.htm#lwcg"
+      },
+      {
+        "title": "基于DCT变换和QR码的彩色图像水印盲提取算法，《计算机工程与设计》2015；",
+        "url": "https://faculty.scu.edu.cn/shihongwei/zh_CN/lwcg/10335/content/3244.htm#lwcg"
+      }
+    ],
+    "projects": []
+  },
+  "sunyanan": {
+    "papers": [],
+    "projects": []
+  },
+  "shuli": {
+    "papers": [],
+    "projects": []
+  },
+  "sunyafei": {
+    "papers": [],
+    "projects": []
+  },
+  "sunjieping": {
+    "papers": [],
+    "projects": []
+  },
+  "songwanzhong": {
+    "papers": [],
+    "projects": []
+  },
+  "tianxing": {
+    "papers": [],
+    "projects": []
+  },
+  "wanghunan": {
+    "papers": [],
+    "projects": []
+  },
+  "wangfan": {
+    "papers": [],
+    "projects": []
+  },
+  "wangjunfeng": {
+    "papers": [],
+    "projects": []
+  },
+  "wangyan": {
+    "papers": [
+      {
+        "title": "Yi Zhang, Yan Wang*, Weihua Zhang, Feng Lin, Yifei Pu, Jiliu Zhou. Statistical iterative reconstruction using adaptive fractional order regularization. Biomedical Optics Express. 2016, 7(3): 1015-1029.",
+        "url": "https://faculty.scu.edu.cn/wangyan/zh_CN/lwcg/8679/content/3095.htm#lwcg"
+      },
+      {
+        "title": "Ma G, Wu L, Wang Y. A general subspace ensemble learning framework via totally-corrective boosting and tensor-based and local patch-based extensions for gait recognition. Pattern Recognition, 2017, 66: 280-294.",
+        "url": "https://faculty.scu.edu.cn/wangyan/zh_CN/lwcg/8679/content/3093.htm#lwcg"
+      },
+      {
+        "title": "Yan Wang, Ma Guangkai, Ligang Wu. Subspace ensemble learning via totally-corrective boosting for gait recognition. Neurocomputing. 2017, 224: 119-127.",
+        "url": "https://faculty.scu.edu.cn/wangyan/zh_CN/lwcg/8679/content/3091.htm#lwcg"
+      },
+      {
+        "title": "Yan Wang, Xi Wu, Wenzao Li, Zhi Li, Yi Zhang, Jiliu Zhou. Analysis of micro-Doppler signatures of vibration targets using EMD and SPWVD. Neurocomputing. 2016. 171:48–56.",
+        "url": "https://faculty.scu.edu.cn/wangyan/zh_CN/lwcg/8679/content/3089.htm#lwcg"
+      },
+      {
+        "title": "Wenzheng Xu, Weifa Liang, Jian Peng, Yiguang Liu, Yan Wang, Maximizing charging satisfaction of smartphone users via wireless energy transfer. IEEE Trans. on Mobile Computing. 2017, 16(4): 990-1004.",
+        "url": "https://faculty.scu.edu.cn/wangyan/zh_CN/lwcg/8679/content/3087.htm#lwcg"
+      },
+      {
+        "title": "Le An, Pei Zhang, Ehsan Adeli-Mosabbeb, Yan Wang, Guangkai Ma, Feng Shi, David S. Lalush, Weili Lin, Dinggang Shen. Multi-level Canonical Correlation Analysis for Standard-dose PET Image Estimation. IEEE Trans. on Image Processing. 2016, 25(7), 3303-3315.",
+        "url": "https://faculty.scu.edu.cn/wangyan/zh_CN/lwcg/8679/content/3086.htm#lwcg"
+      },
+      {
+        "title": "Zongqing Ma, Xi Wu, Xin Wang, Qi Song, Youbing Yin, Kunlin Cao, Yan Wang*, Jiliu Zhou. An iterative multi-path fully convolutional neural network for automatic cardiac segmentation in cine MR images, Medical Physics, 2019, 46(12):5652-5665.",
+        "url": "https://faculty.scu.edu.cn/wangyan/zh_CN/lwcg/8679/content/3084.htm#lwcg"
+      },
+      {
+        "title": "Wang Yan, Yu, B., Wang, L., Zu, C., Luo, Y., Wu, X., Yang, Z., Zhou, J., Zhou, L. (2018). Tumor segmentation via multi-modality joint dictionary learning. 15th IEEE International Symposium on Biomedical Imaging, Washington, DC: Institute of Electrical and Electronics Engineers (IEEE ISBI 2018).",
+        "url": "https://faculty.scu.edu.cn/wangyan/zh_CN/lwcg/8679/content/3083.htm#lwcg"
+      },
+      {
+        "title": "Wang, Yan, Zhou, L., Wang, L., Yu, B., Zu, C., Lalush, D., Lin, W., Wu, X., Zhou, J., Shen, D. (2018). Locality adaptive multi-modality GANs for high-quality PET image synthesis. 21st International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2018).",
+        "url": "https://faculty.scu.edu.cn/wangyan/zh_CN/lwcg/8679/content/3082.htm#lwcg"
+      },
+      {
+        "title": "Yan Wang, Pei Zhang, Le An, Guangkai Ma, Jiayin Kang, Feng Shi, Xi Wu, Jiliu Zhou, David S. Lalush, Weili Lin, Dinggang Shen*. Predicting standard-dose PET image from MR and low-dose PET images using mapping-based sparse representation. Physics in Medicine and Biology. 2016, 61(2): 791-812.",
+        "url": "https://faculty.scu.edu.cn/wangyan/zh_CN/lwcg/8679/content/3081.htm#lwcg"
+      }
+    ],
+    "projects": [
+      {
+        "title": "四川大学青年教师启动基金项目：基于多模态数据的医学PET影像重建。校级2016- 2017,",
+        "url": "https://faculty.scu.edu.cn/wangyan/zh_CN/kyxm/8677/content/2098.htm#kyxm"
+      },
+      {
+        "title": "四川省科技支撑计划项目：基于胼胝体MRI图像的注意缺陷多动障碍（ADHD）的诊断模型研究。省部级2015-201,",
+        "url": "https://faculty.scu.edu.cn/wangyan/zh_CN/kyxm/8677/content/2097.htm#kyxm"
+      },
+      {
+        "title": "国家自然科学基金青年项目：基于多模态MR数据辅助的鼻咽肿瘤CT图像分割。国家级2018-2020,",
+        "url": "https://faculty.scu.edu.cn/wangyan/zh_CN/kyxm/8677/content/2096.htm#kyxm"
+      },
+      {
+        "title": "国家自然科学基金面上项目：鼻咽癌精准自动放疗计划设计关键问题研究。国家级 2021-2024,",
+        "url": "https://faculty.scu.edu.cn/wangyan/zh_CN/kyxm/8677/content/2095.htm#kyxm"
+      },
+      {
+        "title": "国家重点研发计划重点专项：面向减假暂案件的法检司协同办案机制研究与知识库构建。国家级2018 -2021,",
+        "url": "https://faculty.scu.edu.cn/wangyan/zh_CN/kyxm/8677/content/2094.htm#kyxm"
+      }
+    ]
+  },
+  "wangjianyong": {
+    "papers": [],
+    "projects": []
+  },
+  "wanglituan": {
+    "papers": [],
+    "projects": []
+  },
+  "wangyunfeng": {
+    "papers": [],
+    "projects": []
+  },
+  "wuchengen": {
+    "papers": [],
+    "projects": []
+  },
+  "weixiaoyong": {
+    "papers": [
+      {
+        "title": "Mining In-Class Social Networks for Large-Scale Pedagogical Analysis",
+        "url": "https://faculty.scu.edu.cn/weixiaoyong/zh_CN/lwcg/9381/content/3203.htm#lwcg"
+      },
+      {
+        "title": "Coached Active Learning for Interactive Video Search",
+        "url": "https://faculty.scu.edu.cn/weixiaoyong/zh_CN/lwcg/9381/content/3202.htm#lwcg"
+      }
+    ],
+    "projects": []
+  },
+  "wenyi": {
+    "papers": [],
+    "projects": []
+  },
+  "wuhongyu": {
+    "papers": [],
+    "projects": []
+  },
+  "xiaxin": {
+    "papers": [],
+    "projects": []
+  },
+  "wuzhihong": {
+    "papers": [],
+    "projects": []
+  },
+  "xinwei": {
+    "papers": [],
+    "projects": []
+  },
+  "xiaoming": {
+    "papers": [],
+    "projects": []
+  },
+  "wuqiong": {
+    "papers": [],
+    "projects": []
+  },
+  "xiongyong": {
+    "papers": [],
+    "projects": []
+  },
+  "xiongyunyu": {
+    "papers": [],
+    "projects": []
+  },
+  "yangbo": {
+    "papers": [],
+    "projects": []
+  },
+  "xiongwei": {
+    "papers": [],
+    "projects": []
+  },
+  "yanbinyu": {
+    "papers": [],
+    "projects": []
+  },
+  "xuwenzheng": {
+    "papers": [
+      {
+        "title": "Wenzheng Xu, Weigang Wu, Hejun Wu, Jiannong Cao, and Xiaola Lin,“CACC: a cooperative approach to cache consistency in WMNs,”IEEE Transactions on Computers (TC), vol. 63, no. 4, pp. 860–873, 2014. CCF A类，影响因子：3.052",
+        "url": "https://faculty.scu.edu.cn/xuwenzheng/zh_CN/lwcg/8625/content/3076.htm#lwcg"
+      },
+      {
+        "title": "Wenzheng Xu, Weifa Liang, and Xiaola Lin,“Approximation algorithms for min-max cycle cover problems,”IEEE Transactions on Computers (TC) , vol. 64, no. 3, pp. 600–613, 2015. CCF A类，影响因子：3.052.",
+        "url": "https://faculty.scu.edu.cn/xuwenzheng/zh_CN/lwcg/8625/content/3075.htm#lwcg"
+      },
+      {
+        "title": "Wenzheng Xu, Mojtaba Rezvani, Weifa Liang, Jeffrey Xu Yu, and Chengfei Liu,“Efficient algorithms for the identification of top- k structural hole spanners in large social networks,”IEEE Transactions on Knowledge and Data Engineering (TKDE) , vol. 29, no. 5, pp. 1017–1030, 2017. CCF A类期刊，影响因子：3.438。",
+        "url": "https://faculty.scu.edu.cn/xuwenzheng/zh_CN/lwcg/8625/content/3074.htm#lwcg"
+      },
+      {
+        "title": "Wenzheng Xu, Weifa Liang, Jian Peng, Yiguang Liu, and Yan Wang,“Maximizing charging satisfaction of smartphone users via wireless energy transfer,”IEEE Transactions on Mobile Computing (TMC) , vol. 16, no. 4, pp. 990–1004, 2017. CCF A类，影响因子：4.474。",
+        "url": "https://faculty.scu.edu.cn/xuwenzheng/zh_CN/lwcg/8625/content/3073.htm#lwcg"
+      },
+      {
+        "title": "Wenzheng Xu, Weifa Liang, Xiaohua Jia, Zichuan Xu, Zheng Li, and Yiguang Liu,“Maximizing sensor lifetime with the minimal service cost of a mobile charger in wireless sensor networks,”IEEE Transactions on Mobile Computing (TMC) , vol. 17, no. 11, pp. 2564–2577, 2018， CCF A类， 影响因子：4.474。",
+        "url": "https://faculty.scu.edu.cn/xuwenzheng/zh_CN/lwcg/8625/content/3072.htm#lwcg"
+      },
+      {
+        "title": "Wenzheng Xu, Weifa Liang, Xiaoha Jia, Haibin Kan, Yinlong Xu, and Xinming Zhang，“Minimizing the maximum charging delay of multiple mobile chargers under the multi-node energy charging scheme,”IEEE Transactions on Mobile Computing (TMC), DOI: 10.1109/TMC.2020.2973979, 2020. CCF A类， 影响因子：4.474",
+        "url": "https://faculty.scu.edu.cn/xuwenzheng/zh_CN/lwcg/8625/content/3071.htm#lwcg"
+      },
+      {
+        "title": "Rongrong Zhang（指导的研究生）, Jian Peng, Wenzheng Xu∗, Weifa Liang, Zheng Li, and Tian Wang,“Utility maximization of temporally-correlated sensing data in energy harvesting sensor networks,”IEEE Internet of Things Journal (IOT-J), vol. 6, no. 3, pp. 5411–5422, 2019. 中科院JCR一区期刊, 影响因子： 9.515。",
+        "url": "https://faculty.scu.edu.cn/xuwenzheng/zh_CN/lwcg/8625/content/3070.htm#lwcg"
+      },
+      {
+        "title": "Yan Liang（指导的研究生）, Wenzheng Xu∗, Weifa Liang, Jian Peng, Xiaohua Jia, Yingjie Zhou, and Lei Duan“Nonredundant information collection in rescue applications via an energy-constrained UAV”,IEEE Internet of Things Journal (IOT-J), vol. 6, no. 2, pp. 2945–2958, 2019.中科院JCR一区期刊, 影响因子： 9.515。",
+        "url": "https://faculty.scu.edu.cn/xuwenzheng/zh_CN/lwcg/8625/content/3069.htm#lwcg"
+      },
+      {
+        "title": "Tang Liu, Baijun Wu, Shihao Zhang, Jian Peng, and Wenzheng Xu∗,“An effective multi-node charging scheme for wireless rechargeable sensor networks,”in Proc.39th IEEE International Conference on Computer Communications (INFOCOM), 2020. CCF A类会议。",
+        "url": "https://faculty.scu.edu.cn/xuwenzheng/zh_CN/lwcg/8625/content/3068.htm#lwcg"
+      },
+      {
+        "title": "Wenzheng Xu, Zichuan Xu, Jian Peng, Weifa Liang, Tang Liu, Xiaohua Jia, and Sajal K. Das“Approximation algorithms for the team orienteering problem,”in Proc.39th IEEE International Conference on Computer Communications (INFOCOM), 2020. CCF A类会议。",
+        "url": "https://faculty.scu.edu.cn/xuwenzheng/zh_CN/lwcg/8625/content/3067.htm#lwcg"
+      }
+    ],
+    "projects": [
+      {
+        "title": "四川省科技厅重点研发项目，“基于LoRaWan的低功耗广域物联网技术研究及大型水利工程应用实践”，2018GZ0093，2018.1—2019.12，参与。,",
+        "url": "https://faculty.scu.edu.cn/xuwenzheng/zh_CN/kyxm/8623/content/2093.htm#kyxm"
+      },
+      {
+        "title": "四川省科技厅重大项目，“自主可控安全技术研发及应用示范”，2017GZDZX0003，2017.12—2020.12，参与。,",
+        "url": "https://faculty.scu.edu.cn/xuwenzheng/zh_CN/kyxm/8623/content/2092.htm#kyxm"
+      },
+      {
+        "title": "四川大学引进人才科研启动经费，“无线充电技术在无线传感器网络和智能手机充电中的基础应用研究”，2015.7-2018.7,主持。,",
+        "url": "https://faculty.scu.edu.cn/xuwenzheng/zh_CN/kyxm/8623/content/2091.htm#kyxm"
+      },
+      {
+        "title": "四川省科技厅重点研发项目，“基于物联网、云计算、群智感知的河流及沿线生态环境监测平台—— 让 “ 河长制”落到实处”，2018GZ0094，2018.1-2019.12。主持,",
+        "url": "https://faculty.scu.edu.cn/xuwenzheng/zh_CN/kyxm/8623/content/2090.htm#kyxm"
+      },
+      {
+        "title": "四川省科技厅重大专项：“车载集成安全网关研究与应用 ”。时间： 2018年6 月–2021年6月，2018GZDZX0010，2018.6-2021.6，主持。,",
+        "url": "https://faculty.scu.edu.cn/xuwenzheng/zh_CN/kyxm/8623/content/2089.htm#kyxm"
+      },
+      {
+        "title": "国家自然科学基金青年项目，“ 无线传感网监测质量感知的最小成本充电调度研究”，61602330，2017.1-2019.12。主持。,",
+        "url": "https://faculty.scu.edu.cn/xuwenzheng/zh_CN/kyxm/8623/content/2088.htm#kyxm"
+      }
+    ]
+  },
+  "yangchaobin": {
+    "papers": [],
+    "projects": []
+  },
+  "yanghongyu": {
+    "papers": [],
+    "projects": []
+  },
+  "yangning": {
+    "papers": [
+      {
+        "title": "Ning Yang, Xiangnan Kong, Fengjiao Wang, Philip S. Yu. When and Where: Predicting Human Movements Based on Social Spatial-Temporal Events.In Proceedings of SDM 2014",
+        "url": "https://faculty.scu.edu.cn/yangning/zh_CN/lwcg/9111/content/3187.htm#lwcg"
+      },
+      {
+        "title": "Yuchi Ma, Ning Yang, Chuan Li, Lei Zhang, Philip S. Yu. Predicting Neighbor Distribution in Heterogeneous Information Networks. In Proceedings of SDM 2015",
+        "url": "https://faculty.scu.edu.cn/yangning/zh_CN/lwcg/9111/content/3186.htm#lwcg"
+      },
+      {
+        "title": "Ning Yang, Philip S. Yu. Efficient Hidden Trajectory Reconstruction From Sparse Data. In Proceedings of CIKM 2016",
+        "url": "https://faculty.scu.edu.cn/yangning/zh_CN/lwcg/9111/content/3185.htm#lwcg"
+      },
+      {
+        "title": "Yuchi Ma, Ning Yang, Lei Zhang, Philip S. Yu. Predicting Neighbor Label Distributions in Dynamic Heterogeneous Information Networks. World Wide Web Journal, 2017, 20(6):1269-1291",
+        "url": "https://faculty.scu.edu.cn/yangning/zh_CN/lwcg/9111/content/3184.htm#lwcg"
+      },
+      {
+        "title": "Ning Yang, Lifang He, Zheng Li, Philip S. Yu. Reducing Uncertainty of Dynamic Heterogeneous Information Networks: A Fusing Reconstructing Approach. Data Mining and Knowledge Discovery (DMKD), 2017, 31(3):879-906",
+        "url": "https://faculty.scu.edu.cn/yangning/zh_CN/lwcg/9111/content/3183.htm#lwcg"
+      },
+      {
+        "title": "Yuchi Ma, Ning Yang, Lei Zhang, Philip S. Yu. Spatial and Semantical Label Inference for Social Media: A Cross-Network Data Fusion Approach. Knowledge and Information Systems (KAIS), 2017, 53(10):153–177",
+        "url": "https://faculty.scu.edu.cn/yangning/zh_CN/lwcg/9111/content/3182.htm#lwcg"
+      },
+      {
+        "title": "Yanchao Sun, Cong Qian, Ning Yang, Philip S. Yu. Collaborative Inference of Coexisting Information Diffusions. In Proceedings of ICDM 2017",
+        "url": "https://faculty.scu.edu.cn/yangning/zh_CN/lwcg/9111/content/3181.htm#lwcg"
+      },
+      {
+        "title": "Yunfeng Hou, Ning Yang, Yi Wu, Philip S. Yu. Explainable Recommendation with Fusion of Aspect Information. World Wide Web Journal, 2018",
+        "url": "https://faculty.scu.edu.cn/yangning/zh_CN/lwcg/9111/content/3180.htm#lwcg"
+      }
+    ],
+    "projects": [
+      {
+        "title": "中国电子科技集团公司第十研究所横向项目，智能化的目标动态特征挖掘及分析系统，2015/01-2016/12，主持,",
+        "url": "https://faculty.scu.edu.cn/yangning/zh_CN/kyxm/9109/content/2132.htm#kyxm"
+      },
+      {
+        "title": "四川省科技支撑计划项目，基于物联网的数字痕迹挖掘与应用关键技术研究，2011/01-2013/12，主持,",
+        "url": "https://faculty.scu.edu.cn/yangning/zh_CN/kyxm/9109/content/2131.htm#kyxm"
+      },
+      {
+        "title": "教育部博士点基金项目，面向时态序列预测和干预的信息转移模式挖掘研究，2012/01-2014/01，主持,",
+        "url": "https://faculty.scu.edu.cn/yangning/zh_CN/kyxm/9109/content/2130.htm#kyxm"
+      },
+      {
+        "title": "国家自然科学基金面上项目，时态序列中的信息转移挖掘研究，2012/01-2015/12，主持,",
+        "url": "https://faculty.scu.edu.cn/yangning/zh_CN/kyxm/9109/content/2129.htm#kyxm"
+      },
+      {
+        "title": "四川省应用基础研究计划项目，面向社会计算的大规模社会感知数据融合挖掘与应用关键技术研究，2014/09-2017/09，主持,",
+        "url": "https://faculty.scu.edu.cn/yangning/zh_CN/kyxm/9109/content/2128.htm#kyxm"
+      }
+    ]
+  },
+  "yangkai": {
+    "papers": [],
+    "projects": []
+  },
+  "yangqiuhui": {
+    "papers": [],
+    "projects": []
+  },
+  "yingsancong": {
+    "papers": [],
+    "projects": []
+  },
+  "yangyanbing": {
+    "papers": [
+      {
+        "title": "Jie Hao*,Yanbing Yang*, and Jun Luo. CeilingCast: Energy Efficient and Location-Bound Broadcast Through LED-Camera Communication. In Proceedings of the 35th IEEE Conference on Computer Communications,IEEE INFOCOM'16, pp 1-9, San Francisco, CA, USA, April 2016",
+        "url": "https://faculty.scu.edu.cn/yangyanbing/zh_CN/lwcg/8355/content/3007.htm#lwcg"
+      },
+      {
+        "title": "Yanbing Yang. Practical Visible Light Communication System Utilizing LED Sensing. 2017 IEEE International Conference on Pervasive Computing and Communications Workshops (PerCom Workshops), pp 109-110, Kona, Big Island, Hawaii, USA, March 2017",
+        "url": "https://faculty.scu.edu.cn/yangyanbing/zh_CN/lwcg/8355/content/3006.htm#lwcg"
+      },
+      {
+        "title": "Yanbing Yang, Jie Hao, Jun Luo, and Sinno Jialin Pan. CeilingSee: Device-Free Occupancy Inference through Lighting Infrastructure Based LED Sensing. In Proceedings of the 15th IEEE Conference on Pervasive Computing and Communications,IEEE PerCom'17, pp 247—256, Kona, Big Island, Hawaii, USA, March 2017.",
+        "url": "https://faculty.scu.edu.cn/yangyanbing/zh_CN/lwcg/8355/content/3005.htm#lwcg"
+      },
+      {
+        "title": "Yanbing Yang, Jiangtian Nie, and Jun Luo. ReflexCode: Coding with Superposed Reflection Light for LED-Camera Communication. In Proceedings of the 23rd Annual International Conference on Mobile Computing and Networking,ACM MobiCom'17, pp 193-205, Snowbird, Utah, USA, October 2017",
+        "url": "https://faculty.scu.edu.cn/yangyanbing/zh_CN/lwcg/8355/content/3004.htm#lwcg"
+      },
+      {
+        "title": "Yanbing Yang, Shuya Ding, Jie Hao, and Jun Luo. Roaming in Connecting Light: Practical Visible Light Communication Leveraging LED Sensing. 4th ACM Workshop on Visible Light Communication Systems,ACM VLCS@MobiCom'17, pp 9-14, Snowbird, Utah, USA, October 2017.",
+        "url": "https://faculty.scu.edu.cn/yangyanbing/zh_CN/lwcg/8355/content/3003.htm#lwcg"
+      },
+      {
+        "title": "Yanbing Yang, and Jun Luo. Boosting the Throughput of LED-Camera VLC via Composite Light Emission. In Proceedings of the 37th IEEE Conference on Computer Communications,IEEE INFOCOM'18, pp315-323, Honolulu, Hawaii, USA, April 2018.",
+        "url": "https://faculty.scu.edu.cn/yangyanbing/zh_CN/lwcg/8355/content/3002.htm#lwcg"
+      },
+      {
+        "title": "Yanbing Yang, Jun Luo, Chen Chen, Wen-De Zhong and Liangyin Chen. SynLight: Synthetic Light Emission for Fast Transmission in COTS Device-enabled VLC. In Proceedings of the 38th IEEE Conference on Computer Communications,IEEE INFOCOM'19, pp. 1297-1305, Paris, France, April 2019.",
+        "url": "https://faculty.scu.edu.cn/yangyanbing/zh_CN/lwcg/8355/content/3001.htm#lwcg"
+      },
+      {
+        "title": "Yanbing Yang, Jie Hao, and Jun Luo. CeilingTalk: Lightweight Indoor Broadcast Through LED-Camera Communication.IEEE Transactions on Mobile Computing. Vol. 16, no. 12, pp. 3308-3319, 2017. (Highlight:文中提出的支持Dimming调制技术被纳入最新的IEEE Std 802.15.7)",
+        "url": "https://faculty.scu.edu.cn/yangyanbing/zh_CN/lwcg/8355/content/3000.htm#lwcg"
+      },
+      {
+        "title": "Yanbing Yang, Jie Hao, Jun Luo, and Sinno Jialin Pan. Counting via LED Sensing: Inferring Occupancy Using Lighting Infrastructure.Pervasive and Mobile Computing. Vol.45, pp.35-54, 2018. (Special issue on selected PerCom 2017 papers,邀请投稿.)",
+        "url": "https://faculty.scu.edu.cn/yangyanbing/zh_CN/lwcg/8355/content/2999.htm#lwcg"
+      },
+      {
+        "title": "Yanbing Yang, Chen Chen, Wei Zhang, Xiong Deng, Pengfei Du, Helin Yang, Wen-De Zhong, and Liangyin Chen. Secure and Private NOMA VLC Using OFDM With Two-level Chaotic Encryption.Opt. Express26(26), 34031-34042,2018",
+        "url": "https://faculty.scu.edu.cn/yangyanbing/zh_CN/lwcg/8355/content/2998.htm#lwcg"
+      }
+    ],
+    "projects": []
+  },
+  "youjian": {
+    "papers": [],
+    "projects": []
+  },
+  "yinhao": {
+    "papers": [],
+    "projects": []
+  },
+  "youzhisheng": {
+    "papers": [
+      {
+        "title": "Video synchronization based on events alignment. Yiguang Liu, Menglong Yang, Zhisheng You. Pattern Recognition Letters. 33(10), 2012",
+        "url": "https://faculty.scu.edu.cn/youzhisheng/zh_CN/lwcg/8409/content/3013.htm#lwcg"
+      },
+      {
+        "title": "An efficient sensor quantization algorithm for decentralized estimation fusion. Xiaojing Shen, Yunmin Zhu, Zhisheng You. Automatica. 47(5), 2011.",
+        "url": "https://faculty.scu.edu.cn/youzhisheng/zh_CN/lwcg/8409/content/3012.htm#lwcg"
+      },
+      {
+        "title": "Minimum Variance in Biased Estimation with Singular Fisher Information Matrix. Enbin Song, Yunmin Zhu, Jie Zhou, Zhisheng You. IEEE Transactions on Signal Processing. 57(1), 2009",
+        "url": "https://faculty.scu.edu.cn/youzhisheng/zh_CN/lwcg/8409/content/3011.htm#lwcg"
+      },
+      {
+        "title": "The optimality for the distributed Kalman filtering fusion with feedback. Yumin Zhu, Zhisheng You. Automatica. 37(9), 2001",
+        "url": "https://faculty.scu.edu.cn/youzhisheng/zh_CN/lwcg/8409/content/3010.htm#lwcg"
+      },
+      {
+        "title": "Performance evaluation of shape matching via chord length distribution. Zhisheng You, Anil Jain. Computer Vision, Graphics and Image Processing. 28(2), 1984.",
+        "url": "https://faculty.scu.edu.cn/youzhisheng/zh_CN/lwcg/8409/content/3009.htm#lwcg"
+      }
+    ],
+    "projects": []
+  },
+  "yangxiong": {
+    "papers": [],
+    "projects": []
+  },
+  "youhongyue": {
+    "papers": [],
+    "projects": []
+  },
+  "yujing": {
+    "papers": [],
+    "projects": []
+  },
+  "yuzhonghua": {
+    "papers": [],
+    "projects": []
+  },
+  "yubo": {
+    "papers": [],
+    "projects": []
+  },
+  "yuanxuedong": {
+    "papers": [],
+    "projects": []
+  },
+  "yuliang": {
+    "papers": [],
+    "projects": []
+  },
+  "zhanghaixian": {
+    "papers": [],
+    "projects": []
+  },
+  "yuandaohua": {
+    "papers": [],
+    "projects": []
+  },
+  "zhangjianwei": {
+    "papers": [],
+    "projects": []
+  },
+  "zhangbing1": {
+    "papers": [],
+    "projects": []
+  },
+  "zhangjingyu": {
+    "papers": [],
+    "projects": []
+  },
+  "zhangjianzhou": {
+    "papers": [],
+    "projects": []
+  },
+  "zhanglei": {
+    "papers": [],
+    "projects": [
+      {
+        "title": "作为主研人员，参与国家自然科学基金重点项目、“973”计划子课题、“863”计划等项目研究,",
+        "url": "https://faculty.scu.edu.cn/zhanglei/zh_CN/kyxm/9541/content/2148.htm#kyxm"
+      }
+    ]
+  },
+  "zhangtianqing": {
+    "papers": [],
+    "projects": []
+  },
+  "zhanglu": {
+    "papers": [],
+    "projects": []
+  },
+  "zhangle": {
+    "papers": [],
+    "projects": []
+  },
+  "zhangweihua": {
+    "papers": [],
+    "projects": []
+  },
+  "zhangyi12": {
+    "papers": [
+      {
+        "title": "“3D Trajectory Reconstruction from Monocular Vision based on Prior Spatial Knowledge”, IEEE Sensors Journal, Changjiang Liu,Yi Zhang*, 2016",
+        "url": "https://faculty.scu.edu.cn/zhangyi12/zh_CN/lwcg/9003/content/3173.htm#lwcg"
+      },
+      {
+        "title": "“Runway Extraction in Low Visibility Conditions Based on Sensor Fusion Method\", IEEE Trans on Sensors Journal, Changjiang Liu, Qijun Zhao,Yi Zhang*, and Kokkiong Tan, 2013",
+        "url": "https://faculty.scu.edu.cn/zhangyi12/zh_CN/lwcg/9003/content/3172.htm#lwcg"
+      },
+      {
+        "title": "“Vision-Servo System for Automated Cell Injection”, IEEE Trans. on Industrial Electronics\",Yi Zhang, KokKiong Tan, 2009 “Sensor Fusion Method for Horizon Detection From an Aircraft in Low Visibility Conditions”, IEEE Trans on Instrumentation and Measurement, Changjiang Liu,Yi Zhang*, Kokkiong Tan, and Hongyu Yang, 2013",
+        "url": "https://faculty.scu.edu.cn/zhangyi12/zh_CN/lwcg/9003/content/3171.htm#lwcg"
+      },
+      {
+        "title": "“Vision-assisted thermal monitoring system for CNC machine surveillance”, IEEE International Conference on Automation and Logistics,Yi Zhang, Sunan Huang and Kok Kiong Tan, 2008 (Best Paper Award)",
+        "url": "https://faculty.scu.edu.cn/zhangyi12/zh_CN/lwcg/9003/content/3170.htm#lwcg"
+      }
+    ],
+    "projects": []
+  },
+  "zhangyanci": {
+    "papers": [],
+    "projects": []
+  },
+  "zhangyu": {
+    "papers": [],
+    "projects": []
+  },
+  "zhangyi123": {
+    "papers": [],
+    "projects": [
+      {
+        "title": "四川省科技厅基金等项目研究,",
+        "url": "https://faculty.scu.edu.cn/zhangyi123/zh_CN/kyxm/10243/content/2170.htm#kyxm"
+      },
+      {
+        "title": "中国人民解放军总装备部军事预研基金,",
+        "url": "https://faculty.scu.edu.cn/zhangyi123/zh_CN/kyxm/10243/content/2169.htm#kyxm"
+      },
+      {
+        "title": "教育部博士点基金,",
+        "url": "https://faculty.scu.edu.cn/zhangyi123/zh_CN/kyxm/10243/content/2168.htm#kyxm"
+      },
+      {
+        "title": "国家高技术研究发展计划（863计划）,",
+        "url": "https://faculty.scu.edu.cn/zhangyi123/zh_CN/kyxm/10243/content/2167.htm#kyxm"
+      },
+      {
+        "title": "国家自然科学基金,",
+        "url": "https://faculty.scu.edu.cn/zhangyi123/zh_CN/kyxm/10243/content/2166.htm#kyxm"
+      },
+      {
+        "title": "国家重点基础研究发展计划（973计划）子项,",
+        "url": "https://faculty.scu.edu.cn/zhangyi123/zh_CN/kyxm/10243/content/2165.htm#kyxm"
+      },
+      {
+        "title": "国家自然科学基金重点项目,",
+        "url": "https://faculty.scu.edu.cn/zhangyi123/zh_CN/kyxm/10243/content/2164.htm#kyxm"
+      }
+    ]
+  },
+  "zhaoqijun": {
+    "papers": [
+      {
+        "title": "赵启军、涂欢、梁洁 译，视觉计算基础：计算机视觉、图形学和图像处理的核心概念，机械工业出版社，2019年4月",
+        "url": "https://faculty.scu.edu.cn/zhaoqijun/zh_CN/lwcg/8913/content/3159.htm#lwcg"
+      },
+      {
+        "title": "Feng Liu, Ronghang Zhu, Dan Zeng, Qijun Zhao, Xiaoming Liu, “Disentangling Features in 3D Face Shapes for Joint Face Reconstruction and Recognition,” CVPR 2018",
+        "url": "https://faculty.scu.edu.cn/zhaoqijun/zh_CN/lwcg/8913/content/3158.htm#lwcg"
+      },
+      {
+        "title": "Ning Liu, Qijun Zhao, Nan Zhang, Xinhua Cheng, Jianing Zhu, “Pose-Guided Complementary Features Learning for Amur Tiger Re-Identification,” ICCV 2019, CVWC Workshop",
+        "url": "https://faculty.scu.edu.cn/zhaoqijun/zh_CN/lwcg/8913/content/3157.htm#lwcg"
+      },
+      {
+        "title": "Yuting Liu, Miaojing Shi, Qijun Zhao, Xiaofang Wang, “Point in, Box out: Beyond Counting Persons in Crowds,” CVPR 2019",
+        "url": "https://faculty.scu.edu.cn/zhaoqijun/zh_CN/lwcg/8913/content/3156.htm#lwcg"
+      },
+      {
+        "title": "Feng Liu, Qijun Zhao, Xiaoming Liu, Dan Zeng, “Joint Face Alignment and 3D Face Reconstruction with Application to Face Recognition,” IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 42 (3): 664-678, 2020",
+        "url": "https://faculty.scu.edu.cn/zhaoqijun/zh_CN/lwcg/8913/content/3155.htm#lwcg"
+      }
+    ],
+    "projects": [
+      {
+        "title": "成都大熊猫繁育研究基地项目，18H0177，野生动物红外照相物种识别与传输关键技术研究，2018/03-2021/02，30万元,",
+        "url": "https://faculty.scu.edu.cn/zhaoqijun/zh_CN/kyxm/8911/content/2111.htm#kyxm"
+      },
+      {
+        "title": "四川省重大科技专项，2018GZDZX0029，三维人脸智能感知与识别，2018/09-2020/09，400万元,",
+        "url": "https://faculty.scu.edu.cn/zhaoqijun/zh_CN/kyxm/8911/content/2110.htm#kyxm"
+      },
+      {
+        "title": "国家“十三五”重点研发计划“网络空间安全”专项子课题项目，2017YFB0802300，异构身份联盟与监管基础科学问题研究——异构身份联盟集成认证与防伪防盗技术研究，2017/07-2020/06，67万元,",
+        "url": "https://faculty.scu.edu.cn/zhaoqijun/zh_CN/kyxm/8911/content/2109.htm#kyxm"
+      },
+      {
+        "title": "国家自然科学基金面上项目，61773270，复杂场景下三维人脸的重建与识别研究，2018/01-2021/12，61万元,",
+        "url": "https://faculty.scu.edu.cn/zhaoqijun/zh_CN/kyxm/8911/content/2108.htm#kyxm"
+      }
+    ]
+  },
+  "zhaoweiqing": {
+    "papers": [],
+    "projects": []
+  },
+  "zhouli": {
+    "papers": [],
+    "projects": []
+  },
+  "zhaoshulong": {
+    "papers": [],
+    "projects": []
+  },
+  "zhouxin1": {
+    "papers": [],
+    "projects": []
+  },
+  "zhouqunbiao": {
+    "papers": [],
+    "projects": []
+  },
+  "zhouyingjie": {
+    "papers": [],
+    "projects": []
+  },
+  "zhumin": {
+    "papers": [],
+    "projects": []
+  },
+  "zhujiangping": {
+    "papers": [],
+    "projects": []
+  },
+  "zuohang": {
+    "papers": [],
+    "projects": []
+  },
+  "zuojie": {
+    "papers": [],
+    "projects": []
+  }
+}

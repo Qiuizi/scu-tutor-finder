@@ -34,13 +34,29 @@ function parseInfoBlock(html) {
   return info;
 }
 
-/** 解析「研究方向」小节的条目 */
+/**
+ * 解析「研究方向」小节。
+ * 官网是最新最权威的来源，优先于 PDF 名录（PDF 是较早的静态文件，方向与职称都可能过时）。
+ */
 function parseResearch(html) {
-  const idx = html.indexOf('>研究方向</h2>');
-  if (idx < 0) return [];
-  const seg = html.slice(idx, idx + 3000);
-  const ct = seg.match(/<div class="ct">([\s\S]*?)<\/div>/)?.[1] || '';
-  return [...ct.matchAll(/<a[^>]*yjfx[^>]*>([^<]+)<\/a>/g)].map((m) => m[1].trim()).filter(Boolean);
+  for (const heading of ['研究方向', '研究领域']) {
+    const idx = html.indexOf(`>${heading}</h2>`);
+    if (idx < 0) continue;
+
+    // 标题后紧跟「更多」链接，再往后才是内容块
+    const seg = html.slice(idx, idx + 5000);
+    const ct = seg.match(/<div class="ct[^"]*">([\s\S]*?)<\/div>/)?.[1] || '';
+    if (!ct || /暂无内容/.test(ct)) continue;
+
+    // 优先取指向 yjfx 栏目的锚点，取不到就退回通用锚点
+    const strict = [...ct.matchAll(/<a[^>]*yjfx[^>]*>([^<]+)<\/a>/g)].map((m) => m[1].trim());
+    const items = strict.length
+      ? strict
+      : [...ct.matchAll(/<a[^>]*>([^<]{2,30})<\/a>/g)].map((m) => m[1].trim());
+    const cleaned = items.filter((s) => s && s !== '暂无内容');
+    if (cleaned.length) return [...new Set(cleaned)];
+  }
+  return [];
 }
 
 /** 解析「个人简介」正文 */

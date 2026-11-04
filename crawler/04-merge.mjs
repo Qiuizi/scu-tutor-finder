@@ -21,12 +21,29 @@ let fromPdf = 0, fromPage = 0, stillEmpty = 0;
 
 const merged = raw.map((t) => {
   const p = pdfByName.get(t.name);
-  const pageRes = normalizeResearch(t.research.join(' / '));
+  // 官网锚点本身就是一个完整方向名，不能再按分隔符拆（如「生物、医学信息分析」是一个整体）
+  const pageRes = t.research
+    .map((s) => s.replace(/\s+/g, '').trim())
+    .filter((s) => s.length >= 2 && s.length <= 30 && !BAD_RESEARCH.test(s));
   const pdfRes = normalizeResearch(p?.research || '');
+
+  // 官网个人主页是最新数据，优先；PDF 名录是较早的静态文件，仅作兜底
+  // （PDF 中方向与职称都可能已过时，例如赵启军主页为教授，PDF 仍标副高）
   let research;
-  if (pdfRes.length) { research = pdfRes; fromPdf++; }
-  else if (pageRes.length) { research = pageRes; fromPage++; }
-  else { research = []; stillEmpty++; }
+  let researchSource;
+  if (pageRes.length) {
+    research = pageRes;
+    researchSource = 'homepage';
+    fromPage++;
+  } else if (pdfRes.length) {
+    research = pdfRes;
+    researchSource = 'pdf';
+    fromPdf++;
+  } else {
+    research = [];
+    researchSource = '';
+    stillEmpty++;
+  }
 
   return {
     ...t,
@@ -36,7 +53,7 @@ const merged = raw.map((t) => {
     honors: p?.note || '',
     tutorTitle: p?.title || '',
     source: 'homepage',
-    researchSource: pdfRes.length ? 'pdf' : pageRes.length ? 'homepage' : '',
+    researchSource,
   };
 });
 

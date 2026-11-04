@@ -1,9 +1,10 @@
 {
-  "updatedAt": "2026-11-03",
+  "updatedAt": "2026-11-04",
   "totalTeachers": 188,
   "withResearch": 99,
   "tutors": 82,
   "withEmail": 177,
+  "withPapers": 27,
   "totalNotices": 26,
   "sources": [
     "四川大学教师个人主页系统 faculty.scu.edu.cn",

@@ -129,8 +129,8 @@ export default function AgentPanel() {
     <>
       <button
         onClick={() => setOpen((v) => !v)}
-        className={`fixed bottom-5 right-5 z-50 flex items-center gap-2 rounded-full px-4 py-3 text-[13.5px] font-medium shadow-lg shadow-black/40 transition ${
-          open ? 'bg-surface-3 text-ink' : 'bg-accent text-white hover:bg-[#4f46e5]'
+        className={`fixed bottom-5 right-5 z-50 flex items-center gap-2 rounded-full px-4 py-3 text-[13.5px] font-medium shadow-[0_6px_20px_rgba(16,18,40,0.14)] transition ${
+          open ? 'bg-surface-3 text-ink' : 'bg-accent text-white hover:bg-[#4338ca]'
         }`}
       >
         {open ? (
@@ -150,7 +150,7 @@ export default function AgentPanel() {
       </button>
 
       {open && (
-        <div className="animate-in-soft fixed bottom-[74px] right-5 z-50 flex h-[540px] w-[min(400px,calc(100vw-40px))] flex-col overflow-hidden rounded-2xl border border-line bg-surface shadow-2xl shadow-black/60">
+        <div className="animate-in-soft fixed bottom-[74px] right-5 z-50 flex h-[540px] w-[min(400px,calc(100vw-40px))] flex-col overflow-hidden rounded-2xl border border-line bg-surface shadow-[0_24px_60px_rgba(16,18,40,0.18)]">
           <div className="flex items-center gap-2 border-b border-line-soft px-4 py-3">
             <span className="h-1.5 w-1.5 rounded-full bg-emerald-400" />
             <span className="text-[13px] font-medium">导师库助手</span>
@@ -225,7 +225,7 @@ export default function AgentPanel() {
               <button
                 type="submit"
                 disabled={loading || !input.trim()}
-                className="rounded-lg bg-accent px-3 py-2 text-[13px] font-medium text-white transition hover:bg-[#4f46e5] disabled:cursor-not-allowed disabled:opacity-40"
+                className="rounded-lg bg-accent px-3 py-2 text-[13px] font-medium text-white transition hover:bg-[#4338ca] disabled:cursor-not-allowed disabled:opacity-40"
               >
                 {loading ? '…' : '发送'}
               </button>

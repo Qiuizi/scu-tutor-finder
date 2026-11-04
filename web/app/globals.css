@@ -1,18 +1,22 @@
 @import "tailwindcss";
 
-/* 设计系统：深色 / 冷静 / 极简，靛蓝点缀 */
+/* 设计系统：亮色 / 干净 / 高信息密度，靛蓝点缀 */
 :root {
-  --bg: #09090b;
-  --surface: #121216;
-  --surface-2: #17171d;
-  --surface-3: #1d1d24;
-  --border: #262630;
-  --border-soft: #1e1e26;
-  --text: #ededf0;
-  --text-dim: #a5a5b0;
-  --muted: #7d7d8a;
-  --accent: #6366f1;
-  --accent-soft: #818cf8;
+  --bg: #fbfbfc;
+  --surface: #ffffff;
+  --surface-2: #f6f6f8;
+  --surface-3: #eeeef1;
+  --border: #e3e3e8;
+  --border-soft: #ededf0;
+  --text: #17171a;
+  --text-dim: #4b4b55;
+  --muted: #8a8a94;
+  --accent: #4f46e5;
+  --accent-soft: #6366f1;
+  --accent-bg: #eef0ff;
+  --shadow-sm: 0 1px 2px rgba(16, 18, 40, 0.04);
+  --shadow-md: 0 4px 14px rgba(16, 18, 40, 0.07);
+  --shadow-lg: 0 18px 50px rgba(16, 18, 40, 0.14);
 }
 
 @theme inline {
@@ -27,12 +31,14 @@
   --color-muted: var(--muted);
   --color-accent: var(--accent);
   --color-accent-soft: var(--accent-soft);
+  --color-accent-bg: var(--accent-bg);
   --font-sans: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans SC",
     system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
 }
 
 html {
-  color-scheme: dark;
+  color-scheme: light;
+  scroll-behavior: smooth;
 }
 
 body {
@@ -43,34 +49,47 @@ body {
   text-rendering: optimizeLegibility;
 }
 
+::selection {
+  background: #ddd9ff;
+  color: #1e1b4b;
+}
+
 /* 滚动条 */
 ::-webkit-scrollbar {
-  width: 9px;
-  height: 9px;
+  width: 10px;
+  height: 10px;
 }
 ::-webkit-scrollbar-track {
   background: transparent;
 }
 ::-webkit-scrollbar-thumb {
-  background: #2e2e38;
+  background: #d6d6dd;
   border-radius: 99px;
+  border: 2px solid var(--bg);
 }
 ::-webkit-scrollbar-thumb:hover {
-  background: #3b3b47;
+  background: #b9b9c4;
 }
 
-/* 顶部微光：克制渐变，只做层次 */
+/* 顶部柔光：极浅的靛蓝到白 */
 .glow-top {
-  background: radial-gradient(60% 120% at 50% -20%, rgba(99, 102, 241, 0.16), transparent 70%);
+  background:
+    radial-gradient(70% 130% at 50% -30%, rgba(99, 102, 241, 0.12), transparent 65%),
+    linear-gradient(180deg, #ffffff 0%, var(--bg) 100%);
 }
 
-.card-lift {
-  transition: transform 0.16s ease, border-color 0.16s ease, background-color 0.16s ease;
+/* 卡片 */
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border-soft);
+  box-shadow: var(--shadow-sm);
+  transition: transform 0.18s cubic-bezier(0.2, 0.7, 0.3, 1), box-shadow 0.18s ease,
+    border-color 0.18s ease;
 }
-.card-lift:hover {
+.card:hover {
   transform: translateY(-2px);
-  border-color: #34343f;
-  background-color: var(--surface-2);
+  border-color: #d3d3dc;
+  box-shadow: var(--shadow-md);
 }
 
 .clamp-2 {
@@ -80,14 +99,36 @@ body {
   overflow: hidden;
 }
 
-@keyframes fade-in {
-  from { opacity: 0; transform: translateY(4px); }
-  to { opacity: 1; transform: translateY(0); }
+/* 入场 */
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 .animate-in-soft {
-  animation: fade-in 0.22s ease both;
+  animation: fade-up 0.26s cubic-bezier(0.2, 0.7, 0.3, 1) both;
 }
 
+@keyframes slide-in-right {
+  from {
+    opacity: 0;
+    transform: translateX(28px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+.animate-slide-in {
+  animation: slide-in-right 0.28s cubic-bezier(0.2, 0.7, 0.3, 1) both;
+}
+
+/* 打字光标 */
 @keyframes blink {
   0%, 50% { opacity: 1; }
   50.01%, 100% { opacity: 0; }
@@ -95,5 +136,28 @@ body {
 .caret::after {
   content: "▍";
   animation: blink 1s steps(1) infinite;
-  color: var(--accent-soft);
+  color: var(--accent);
+}
+
+/* 搜索命中高亮 */
+mark.hit {
+  background: #fff3bf;
+  color: #7a5c00;
+  border-radius: 3px;
+  padding: 0 2px;
+  font-weight: 600;
+}
+
+/* 筛选胶囊的按压反馈 */
+.chip {
+  transition: background-color 0.15s ease, color 0.15s ease, border-color 0.15s ease,
+    transform 0.12s ease;
+}
+.chip:active {
+  transform: scale(0.96);
+}
+
+/* 数字等宽，避免跳动 */
+.tnum {
+  font-variant-numeric: tabular-nums;
 }
