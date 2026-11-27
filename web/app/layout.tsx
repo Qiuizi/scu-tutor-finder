@@ -1,10 +1,30 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import { SITE_DESCRIPTION, SITE_NAME, SITE_TAGLINE, SITE_URL } from "@/lib/site";
+
+const title = `${SITE_TAGLINE}｜${SITE_NAME}`;
 
 export const metadata: Metadata = {
-  title: "川大导师速查 | 计算机学院（软件学院）",
-  description:
-    "四川大学计算机学院（软件学院）导师信息检索：研究方向、职称、联系方式、个人主页，数据来自学院官网与研究生导师名录。",
+  metadataBase: new URL(SITE_URL),
+  title,
+  description: SITE_DESCRIPTION,
+  applicationName: SITE_NAME,
+  authors: [{ name: "Qiuizi", url: "https://github.com/Qiuizi" }],
+  creator: "Qiuizi",
+  alternates: { canonical: SITE_URL },
+  openGraph: {
+    title,
+    description: SITE_DESCRIPTION,
+    url: SITE_URL,
+    siteName: SITE_NAME,
+    locale: "zh_CN",
+    type: "website",
+  },
+  twitter: {
+    card: "summary",
+    title,
+    description: SITE_DESCRIPTION,
+  },
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

@@ -87,7 +87,6 @@ export default function AgentPanel() {
       setMode('ai');
       const reader = res.body?.getReader();
       const decoder = new TextDecoder();
-      let acc = '';
       setMessages([...next, { role: 'assistant', content: '' }]);
 
       while (reader) {
@@ -101,11 +100,10 @@ export default function AgentPanel() {
           try {
             const delta = JSON.parse(payload).choices?.[0]?.delta?.content || '';
             if (delta) {
-              acc += delta;
               setMessages((prev) => {
-                const copy = [...prev];
-                copy[copy.length - 1] = { role: 'assistant', content: acc };
-                return copy;
+                const last = prev[prev.length - 1];
+                const content = `${last?.role === 'assistant' ? last.content : ''}${delta}`;
+                return [...prev.slice(0, -1), { role: 'assistant', content }];
               });
             }
           } catch {
