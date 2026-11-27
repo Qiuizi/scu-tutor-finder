@@ -2,7 +2,7 @@
   "name": "tutor",
   "version": "1.0.0",
   "private": true,
-  "description": "四川大学计算机学院（软件学院）导师信息检索站",
+  "description": "高校导师与研究方向检索工具。当前数据为四川大学计算机学院（软件学院）公开教师名录。",
   "type": "module",
   "scripts": {
     "update": "node crawler/update.mjs",

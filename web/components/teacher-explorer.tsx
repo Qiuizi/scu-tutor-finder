@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useMemo, useRef, useState } from 'react';
+import { useEffect, useMemo, useRef, useState, useSyncExternalStore } from 'react';
 import type { Teacher } from '@/lib/types';
 import TeacherDetail from './teacher-detail';
 
@@ -22,6 +22,15 @@ const achieveCount = (t: Teacher) => (t.papers?.length || 0) + (t.projects?.leng
 /** 分享链接标识：有个人主页用 slug，仅名录者退化为姓名 */
 const keyOf = (t: Teacher) => t.slug || t.name;
 
+function subscribeTeacherParam(onStoreChange: () => void) {
+  window.addEventListener('popstate', onStoreChange);
+  return () => window.removeEventListener('popstate', onStoreChange);
+}
+
+function readTeacherParam() {
+  return new URLSearchParams(window.location.search).get('t') ?? '';
+}
+
 type SortKey = 'rank' | 'name' | 'output';
 type View = 'grid' | 'list';
 
@@ -39,26 +48,25 @@ export default function TeacherExplorer({
   const [showAllTags, setShowAllTags] = useState(false);
   const [sortKey, setSortKey] = useState<SortKey>('rank');
   const [view, setView] = useState<View>('grid');
-  const [selected, setSelected] = useState<Teacher | null>(null);
-  const hydrated = useRef(false);
+  // 分享链接 ?t= 在注水后读取。服务端快照为空，避免首屏和 HTML 不一致。
+  const param = useSyncExternalStore(subscribeTeacherParam, readTeacherParam, () => '');
+  const linked = useMemo(
+    () => (param ? teachers.find((t) => keyOf(t) === param) ?? null : null),
+    [teachers, param],
+  );
+  const [manual, setManual] = useState<Teacher | null | undefined>(undefined);
+  const selected = manual !== undefined ? manual : linked;
   const searchRef = useRef<HTMLInputElement>(null);
 
-  // 挂载后再读 ?t= 参数（不能在 useState 初始化里读 window，会导致 hydration 不匹配）
-  useEffect(() => {
-    if (hydrated.current) return;
-    hydrated.current = true;
-    const slug = new URLSearchParams(window.location.search).get('t');
-    const hit = slug ? teachers.find((t) => keyOf(t) === slug) : null;
-    if (hit) setSelected(hit);
-  }, [teachers]);
-
-  useEffect(() => {
-    if (!hydrated.current) return;
+  const choose = (teacher: Teacher | null) => {
+    setManual(teacher);
     const url = new URL(window.location.href);
-    if (selected) url.searchParams.set('t', keyOf(selected));
+    if (teacher) url.searchParams.set('t', keyOf(teacher));
     else url.searchParams.delete('t');
-    window.history.replaceState(null, '', url.toString());
-  }, [selected]);
+    const next = `${url.pathname}${url.search}${url.hash}`;
+    const current = `${window.location.pathname}${window.location.search}${window.location.hash}`;
+    if (next !== current) window.history.replaceState(null, '', next);
+  };
 
   // 键盘：/ 聚焦搜索，Esc 清空或关闭
   useEffect(() => {
@@ -128,6 +136,12 @@ export default function TeacherExplorer({
     <section>
       {/* 搜索与筛选：吸顶，滚动时始终可操作 */}
       <div className="sticky top-0 z-30 bg-bg/90 pb-3 pt-1 backdrop-blur-md">
+        <div className="mb-2 flex flex-wrap items-baseline justify-between gap-x-3 gap-y-0.5">
+          <label htmlFor="teacher-search" className="text-[12.5px] font-medium text-ink">
+            检索入口
+          </label>
+          <span className="text-[12px] text-muted">姓名、研究方向或论文关键词</span>
+        </div>
         {/* 搜索 */}
         <div className="relative">
         <svg
@@ -141,11 +155,13 @@ export default function TeacherExplorer({
           <path d="m20 20-3.5-3.5" strokeLinecap="round" />
         </svg>
         <input
+          id="teacher-search"
           ref={searchRef}
           value={query}
           onChange={(e) => setQuery(e.target.value)}
-          placeholder="搜姓名、研究方向、论文关键词…（如 计算机视觉 / 赵启军 / 人脸识别）"
-          className="w-full rounded-xl border border-line bg-surface py-3 pl-10 pr-24 text-[14px] text-ink shadow-[var(--shadow-sm)] placeholder:text-muted/90 outline-none transition focus:border-accent/50 focus:shadow-[0_0_0_3px_rgba(99,102,241,0.12)]"
+          placeholder="搜索姓名、研究方向或论文关键词"
+          aria-label="搜索姓名、研究方向或论文关键词"
+          className="w-full scroll-mt-24 rounded-xl border border-line bg-surface py-3 pl-10 pr-12 text-[14px] text-ink shadow-[var(--shadow-sm)] placeholder:text-muted/90 outline-none transition focus:border-accent/50 focus:shadow-[0_0_0_3px_rgba(99,102,241,0.12)] sm:pr-24"
         />
         {query ? (
           <button
@@ -158,7 +174,7 @@ export default function TeacherExplorer({
             </svg>
           </button>
         ) : (
-          <kbd className="pointer-events-none absolute right-3 top-1/2 -translate-y-1/2 rounded border border-line bg-surface-2 px-1.5 py-0.5 font-mono text-[11px] text-muted">
+          <kbd className="pointer-events-none absolute right-3 top-1/2 hidden -translate-y-1/2 rounded border border-line bg-surface-2 px-1.5 py-0.5 font-mono text-[11px] text-muted sm:inline-block">
             /
           </kbd>
         )}
@@ -282,7 +298,7 @@ export default function TeacherExplorer({
           {list.map((t, i) => (
             <button
               key={keyOf(t)}
-              onClick={() => setSelected(t)}
+              onClick={() => choose(t)}
               style={{ animationDelay: `${Math.min(i, 14) * 16}ms` }}
               className="card animate-in-soft flex flex-col rounded-xl p-4 text-left"
             >
@@ -339,7 +355,7 @@ export default function TeacherExplorer({
           {list.map((t, i) => (
             <button
               key={keyOf(t)}
-              onClick={() => setSelected(t)}
+              onClick={() => choose(t)}
               style={{ animationDelay: `${Math.min(i, 20) * 10}ms` }}
               className={`animate-in-soft flex w-full items-center gap-3 px-4 py-2.5 text-left transition hover:bg-surface-2 ${
                 i ? 'border-t border-line-soft' : ''
@@ -389,7 +405,7 @@ export default function TeacherExplorer({
         </div>
       )}
 
-      {selected && <TeacherDetail teacher={selected} onClose={() => setSelected(null)} />}
+      {selected && <TeacherDetail teacher={selected} onClose={() => choose(null)} />}
     </section>
   );
 }
